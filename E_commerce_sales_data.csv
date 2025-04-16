@@ -1,0 +1,1051 @@
+Order ID,Date,Customer ID,Product Category,Product Name,Quantity Sold,Unit Price,Payment Method,Shipping Region,Order Status,Total Sales
+ORD100000,2024-11-05 12:06:11.610782,CUST8241,CLOTHING,Product 3,7,208.1,creditcard,Europe,Completed,1456.7
+ORD100001,2024-09-09 12:06:11.610782,CUST7691,electronics,Product 19,5,124.32,Bank Transfer,Asia,Cancelled,621.6
+ORD100002,2024-06-19 12:06:11.610782,CUST1326,home-kitchen,Product 24,5,394.96,PAYPAL,Europe,Completed,1974.8
+ORD100003,2024-06-17 12:06:11.610782,CUST1023,home-kitchen,Product 47,4,384.66,Gift Card,Africa,Completed,1538.64
+ORD100004,2024-05-15 12:06:11.610782,CUST7873,Beauty & Health,Product 48,5,260.73,PAYPAL,Asia,Completed,1303.65
+ORD100005,2024-05-15 12:06:11.610782,CUST6401,electronics,Product 14,7,279.57,Gift Card,Europe,Completed,1956.99
+ORD100006,2024-11-05 12:06:11.610782,CUST2928,Sports & Outdoors,Product 25,5,433.66,creditcard,Africa,Cancelled,2168.3
+ORD100007,2024-06-18 12:06:11.610782,CUST3660,Sports & Outdoors,Product 13,2,449.01,Gift Card,Africa,Completed,898.02
+ORD100008,2024-08-13 12:06:11.610782,CUST2138,Beauty & Health,Product 2,3,253.3,Gift Card,South America,Completed,759.9
+ORD100009,2024-04-17 12:06:11.610782,CUST4208,CLOTHING,Product 34,5,472.06,Bank Transfer,South America,Cancelled,2360.3
+ORD100010,2024-06-21 12:06:11.610782,,CLOTHING,Product 15,6,337.51,PAYPAL,North America,Cancelled,2025.06
+ORD100011,2024-04-22 12:06:11.610782,CUST9585,Beauty & Health,Product 19,7,366.7,PAYPAL,Africa,Completed,2566.9
+ORD100012,2024-04-14 12:06:11.610782,CUST7122,electronics,Product 38,5,136.85,PAYPAL,North America,Completed,684.25
+ORD100013,2024-08-04 12:06:11.610782,CUST3005,electronics,Product 15,8,382.55,creditcard,Europe,Cancelled,3060.4
+ORD100014,2024-08-30 12:06:11.610782,CUST2911,electronics,Product 1,5,107.24,creditcard,South America,Cancelled,536.2
+ORD100015,2024-08-07 12:06:11.610782,CUST7547,,Product 3,5,433.77,PAYPAL,South America,Completed,2168.85
+ORD100016,2025-02-18 12:06:11.610782,CUST5360,home-kitchen,Product 36,4,395.4,Bank Transfer,Asia,Cancelled,1581.6
+ORD100017,2025-01-24 12:06:11.610782,CUST2928,electronics,Product 1,2,68.76,Gift Card,South America,Pending,137.52
+ORD100018,2024-11-14 12:06:11.610782,CUST6364,Sports & Outdoors,Product 50,7,428.19,PAYPAL,Asia,Completed,2997.33
+ORD100019,2024-07-03 12:06:11.610782,CUST1130,Sports & Outdoors,Product 19,5,301.79,Bank Transfer,North America,Pending,1508.95
+ORD100020,2024-12-09 12:06:11.610782,CUST8546,Sports & Outdoors,Product 26,7,341.62,creditcard,North America,Cancelled,2391.34
+ORD100021,2024-07-12 12:06:11.610782,CUST6930,Sports & Outdoors,Product 13,10,494.1,creditcard,North America,Completed,4941.0
+ORD100022,2024-07-30 12:06:11.610782,,Sports & Outdoors,Product 14,8,61.38,creditcard,Asia,,491.04
+ORD100023,2024-04-20 12:06:11.610782,CUST6451,electronics,Product 13,1,98.68,Gift Card,Europe,Pending,98.68
+ORD100024,2024-05-14 12:06:11.610782,CUST5089,home-kitchen,Product 24,7,391.97,Bank Transfer,Africa,Pending,2743.79
+ORD100025,2024-06-21 12:06:11.610782,CUST4071,home-kitchen,Product 16,1,49.65,PAYPAL,South America,Completed,49.65
+ORD100026,2024-06-27 12:06:11.610782,CUST7955,home-kitchen,Product 23,7,340.7,Gift Card,North America,Pending,2384.9
+ORD100027,2024-06-05 12:06:11.610782,CUST7856,electronics,Product 27,9,445.97,Bank Transfer,Africa,Cancelled,4013.73
+ORD100028,2025-02-06 12:06:11.610782,CUST1503,electronics,Product 39,1,165.59,PAYPAL,South America,Completed,165.59
+ORD100029,2024-06-21 12:06:11.610782,CUST3335,CLOTHING,Product 32,10,23.82,PAYPAL,Asia,Pending,238.2
+ORD100030,2024-11-03 12:06:11.610782,CUST8739,home-kitchen,Product 37,10,365.64,Gift Card,Europe,Completed,3656.4
+ORD100031,2025-01-01 12:06:11.610782,CUST5743,Sports & Outdoors,Product 25,6,267.05,Gift Card,Africa,Cancelled,1602.3
+ORD100032,2024-08-27 12:06:11.610782,CUST1286,CLOTHING,Product 30,2,303.64,creditcard,,Completed,607.28
+ORD100033,2024-08-02 12:06:11.610782,CUST5876,Sports & Outdoors,Product 19,9,269.87,Gift Card,Africa,Cancelled,2428.83
+ORD100034,2025-02-01 12:06:11.610782,CUST2212,Beauty & Health,Product 12,9,122.42,Gift Card,Africa,Pending,1101.78
+ORD100035,2024-06-18 12:06:11.610782,CUST5958,home-kitchen,Product 25,1,61.27,creditcard,Asia,Cancelled,61.27
+ORD100036,2024-07-12 12:06:11.610782,CUST9136,electronics,Product 45,7,429.22,Bank Transfer,North America,Pending,3004.54
+ORD100037,2024-03-18 12:06:11.610782,CUST7344,electronics,Product 1,10,24.21,Bank Transfer,South America,Completed,242.1
+ORD100038,2025-01-15 12:06:11.610782,CUST2874,Sports & Outdoors,Product 32,8,18.77,Gift Card,North America,Cancelled,150.16
+ORD100039,2024-06-21 12:06:11.610782,CUST9658,electronics,Product 47,10,411.78,Gift Card,Africa,Cancelled,4117.8
+ORD100040,2024-04-16 12:06:11.610782,CUST9261,Beauty & Health,Product 27,7,186.97,creditcard,,Completed,1308.79
+ORD100041,2024-03-05 12:06:11.610782,CUST6553,Sports & Outdoors,Product 2,6,10.85,creditcard,South America,Cancelled,65.1
+ORD100042,2024-12-08 12:06:11.610782,CUST7381,Sports & Outdoors,Product 17,9,41.13,PAYPAL,North America,Cancelled,370.17
+ORD100043,2024-10-18 12:06:11.610782,CUST6050,CLOTHING,Product 31,5,78.37,PAYPAL,South America,Cancelled,391.85
+ORD100044,2025-01-08 12:06:11.610782,CUST3283,home-kitchen,Product 34,8,383.66,Gift Card,Asia,Pending,3069.28
+ORD100045,2024-11-13 12:06:11.610782,CUST5279,,Product 44,1,199.62,Bank Transfer,Europe,Pending,199.62
+ORD100046,2024-06-04 12:06:11.610782,CUST4957,Beauty & Health,Product 45,2,33.06,Bank Transfer,North America,Cancelled,66.12
+ORD100047,2024-03-01 12:06:11.610782,CUST8195,CLOTHING,Product 5,4,182.21,Gift Card,Asia,Cancelled,728.84
+ORD100048,2024-12-03 12:06:11.610782,CUST1134,home-kitchen,Product 18,2,436.96,Bank Transfer,Europe,Cancelled,873.92
+ORD100049,2024-12-05 12:06:11.610782,,electronics,Product 48,9,369.37,creditcard,Europe,Cancelled,3324.33
+ORD100050,2025-02-08 12:06:11.610782,CUST3425,CLOTHING,Product 30,10,122.03,Bank Transfer,South America,Pending,1220.3
+ORD100051,2024-05-28 12:06:11.610782,CUST7146,electronics,Product 34,9,470.26,Gift Card,Europe,Pending,4232.34
+ORD100052,2025-02-03 12:06:11.610782,CUST1490,home-kitchen,Product 1,3,301.77,creditcard,North America,Cancelled,905.31
+ORD100053,2024-07-08 12:06:11.610782,CUST3041,Beauty & Health,Product 22,9,207.26,Bank Transfer,South America,Cancelled,1865.34
+ORD100054,2024-10-20 12:06:11.610782,CUST6621,CLOTHING,Product 2,9,190.37,PAYPAL,North America,Completed,1713.33
+ORD100055,2024-11-13 12:06:11.610782,,electronics,Product 30,1,180.19,creditcard,,Pending,180.19
+ORD100056,2024-06-20 12:06:11.610782,CUST4832,electronics,Product 40,4,90.35,creditcard,Asia,Cancelled,361.4
+ORD100057,2024-03-21 12:06:11.610782,CUST7307,Beauty & Health,Product 29,7,289.76,creditcard,Africa,Cancelled,2028.32
+ORD100058,2024-05-04 12:06:11.610782,CUST3302,home-kitchen,Product 38,10,224.21,PAYPAL,Europe,Cancelled,2242.1
+ORD100059,2024-08-03 12:06:11.610782,CUST4158,CLOTHING,Product 34,8,111.22,PAYPAL,North America,Pending,889.76
+ORD100060,2024-10-19 12:06:11.610782,CUST3143,CLOTHING,Product 4,2,326.19,PAYPAL,Africa,Completed,652.38
+ORD100061,2024-11-02 12:06:11.610782,CUST6015,Beauty & Health,Product 2,1,315.79,creditcard,North America,Completed,315.79
+ORD100062,2024-09-27 12:06:11.610782,CUST9603,Sports & Outdoors,Product 13,6,428.8,Bank Transfer,South America,Pending,2572.8
+ORD100063,2025-01-10 12:06:11.610782,CUST8524,CLOTHING,Product 4,5,175.28,PAYPAL,South America,Cancelled,876.4
+ORD100064,2024-03-01 12:06:11.610782,CUST2921,CLOTHING,Product 12,7,100.64,PAYPAL,Africa,Completed,704.48
+ORD100065,2025-01-05 12:06:11.610782,CUST3038,Sports & Outdoors,Product 12,3,204.63,creditcard,Europe,Completed,613.89
+ORD100066,2025-01-02 12:06:11.610782,CUST6327,Sports & Outdoors,Product 26,2,154.41,creditcard,Europe,Pending,308.82
+ORD100067,2024-10-13 12:06:11.610782,CUST8844,CLOTHING,Product 7,7,321.61,Bank Transfer,Africa,Pending,2251.27
+ORD100068,2024-10-31 12:06:11.610782,CUST7033,Sports & Outdoors,Product 47,4,492.72,Bank Transfer,Asia,Pending,1970.88
+ORD100069,2024-07-24 12:06:11.610782,CUST1125,Beauty & Health,Product 13,3,308.23,PAYPAL,Asia,Cancelled,924.69
+ORD100070,2024-03-18 12:06:11.610782,CUST9902,electronics,Product 11,7,9999.99,Bank Transfer,Asia,Completed,1362.48
+ORD100071,2024-07-09 12:06:11.610782,CUST2086,,Product 7,3,102.07,creditcard,North America,Pending,306.21
+ORD100072,2024-10-02 12:06:11.610782,CUST9136,CLOTHING,Product 30,6,201.75,Bank Transfer,Asia,Completed,1210.5
+ORD100073,2025-02-06 12:06:11.610782,CUST9714,Sports & Outdoors,Product 14,10,350.04,PAYPAL,Europe,Completed,3500.4
+ORD100074,2024-10-31 12:06:11.610782,CUST1314,home-kitchen,Product 24,6,173.8,PAYPAL,Asia,Pending,1042.8
+ORD100075,2025-02-05 12:06:11.610782,CUST5250,CLOTHING,Product 6,2,486.83,Bank Transfer,South America,Cancelled,973.66
+ORD100076,2024-03-13 12:06:11.610782,CUST9683,Beauty & Health,Product 41,7,129.1,creditcard,North America,Completed,903.7
+ORD100077,2025-02-03 12:06:11.610782,CUST8969,home-kitchen,Product 47,2,36.37,Bank Transfer,South America,Cancelled,72.74
+ORD100078,2024-05-31 12:06:11.610782,CUST3158,CLOTHING,Product 10,4,447.16,Gift Card,South America,Pending,1788.64
+ORD100079,2024-10-27 12:06:11.610782,CUST4649,CLOTHING,Product 13,1,321.49,PAYPAL,Europe,Pending,321.49
+ORD100080,2024-12-06 12:06:11.610782,CUST3051,electronics,Product 13,1,423.73,PAYPAL,South America,Cancelled,423.73
+ORD100081,2024-02-29 12:06:11.610782,CUST3687,electronics,Product 27,2,392.0,Bank Transfer,South America,Completed,784.0
+ORD100082,2025-01-31 12:06:11.610782,,Beauty & Health,Product 37,7,304.36,PAYPAL,Africa,Cancelled,2130.52
+ORD100083,2024-07-01 12:06:11.610782,CUST6200,home-kitchen,Product 5,9,308.16,creditcard,Asia,Cancelled,2773.44
+ORD100084,2024-12-07 12:06:11.610782,CUST9596,Beauty & Health,Product 21,9,490.37,creditcard,Europe,Pending,4413.33
+ORD100085,2024-03-07 12:06:11.610782,CUST4809,electronics,Product 2,4,18.95,creditcard,Asia,Cancelled,75.8
+ORD100086,2024-12-31 12:06:11.610782,,home-kitchen,Product 9,5,118.75,Gift Card,South America,Cancelled,593.75
+ORD100087,2024-12-22 12:06:11.610782,CUST3871,electronics,Product 20,2,109.17,PAYPAL,Europe,Pending,218.34
+ORD100088,2024-12-23 12:06:11.610782,CUST4753,Sports & Outdoors,Product 19,9,67.35,creditcard,Asia,Cancelled,606.15
+ORD100089,2024-06-04 12:06:11.610782,CUST3445,,Product 40,10,180.99,Bank Transfer,Europe,Pending,1809.9
+ORD100090,2024-06-04 12:06:11.610782,CUST1409,home-kitchen,Product 44,10,19.13,PAYPAL,North America,Completed,191.3
+ORD100091,2024-08-02 12:06:11.610782,CUST6571,Sports & Outdoors,Product 1,9,227.89,creditcard,Europe,Cancelled,2051.01
+ORD100092,2024-07-08 12:06:11.610782,CUST3011,CLOTHING,Product 37,8,88.98,creditcard,Africa,Completed,711.84
+ORD100093,2024-12-06 12:06:11.610782,CUST9691,home-kitchen,Product 11,4,398.78,Bank Transfer,South America,Completed,1595.12
+ORD100094,2024-09-06 12:06:11.610782,CUST5861,Beauty & Health,Product 3,4,134.35,Gift Card,North America,Cancelled,537.4
+ORD100095,2024-05-30 12:06:11.610782,CUST6225,Sports & Outdoors,Product 47,6,262.23,PAYPAL,Africa,Cancelled,1573.38
+ORD100096,2024-12-09 12:06:11.610782,CUST8826,Beauty & Health,Product 37,3,272.45,Bank Transfer,North America,Pending,817.35
+ORD100097,2024-07-31 12:06:11.610782,CUST8365,electronics,,9,91.59,Bank Transfer,North America,Cancelled,824.31
+ORD100098,2024-07-26 12:06:11.610782,CUST3891,home-kitchen,Product 46,7,480.6,Bank Transfer,Africa,Pending,3364.2
+ORD100099,2025-02-06 12:06:11.610782,CUST8430,Beauty & Health,Product 11,7,92.64,Gift Card,Asia,Pending,648.48
+ORD100100,2024-09-28 12:06:11.610782,CUST9124,home-kitchen,Product 44,7,260.19,Gift Card,North America,Cancelled,1821.33
+ORD100101,2024-04-28 12:06:11.610782,,Beauty & Health,Product 3,7,339.94,Bank Transfer,South America,Cancelled,2379.58
+ORD100102,2024-10-30 12:06:11.610782,CUST5034,Beauty & Health,Product 13,10,81.24,,Asia,Completed,812.4
+ORD100103,2024-10-06 12:06:11.610782,,home-kitchen,Product 20,6,47.66,creditcard,Europe,Completed,285.96
+ORD100104,2025-01-19 12:06:11.610782,CUST2707,CLOTHING,Product 13,4,48.68,Gift Card,Europe,Pending,194.72
+ORD100105,2025-01-27 12:06:11.610782,CUST1327,Sports & Outdoors,Product 43,1,224.91,PAYPAL,Africa,Cancelled,224.91
+ORD100106,2025-02-10 12:06:11.610782,CUST3941,Sports & Outdoors,Product 19,5,402.73,PAYPAL,South America,Pending,2013.65
+ORD100107,2024-07-16 12:06:11.610782,CUST3506,electronics,Product 26,5,293.7,Bank Transfer,South America,Completed,1468.5
+ORD100108,2024-06-09 12:06:11.610782,CUST5695,Sports & Outdoors,Product 48,6,48.73,Gift Card,Europe,Pending,292.38
+ORD100109,2024-10-20 12:06:11.610782,CUST1338,Beauty & Health,Product 40,8,275.44,Bank Transfer,Asia,Cancelled,2203.52
+ORD100110,2024-05-21 12:06:11.610782,CUST3624,home-kitchen,Product 29,1,333.21,Bank Transfer,Europe,Cancelled,333.21
+ORD100111,2024-10-22 12:06:11.610782,CUST8089,Beauty & Health,Product 33,8,263.29,creditcard,South America,Cancelled,2106.32
+ORD100112,2024-04-18 12:06:11.610782,CUST5299,electronics,Product 46,4,245.95,PAYPAL,Africa,Cancelled,983.8
+ORD100113,2024-11-26 12:06:11.610782,CUST5966,Sports & Outdoors,Product 30,4,445.89,Bank Transfer,South America,Cancelled,1783.56
+ORD100114,2024-05-07 12:06:11.610782,CUST8548,,Product 24,2,79.51,Gift Card,South America,Cancelled,159.02
+ORD100115,2024-02-26 12:06:11.610782,CUST5907,CLOTHING,,4,308.09,Bank Transfer,Africa,Cancelled,1232.36
+ORD100116,2024-05-21 12:06:11.610782,CUST7417,home-kitchen,Product 20,8,140.45,creditcard,North America,Completed,1123.6
+ORD100117,2025-01-19 12:06:11.610782,CUST6626,Beauty & Health,Product 26,5,118.95,Bank Transfer,South America,Cancelled,594.75
+ORD100118,2024-07-13 12:06:11.610782,CUST8832,Sports & Outdoors,Product 21,10,386.72,PAYPAL,Asia,Cancelled,3867.2
+ORD100119,2024-05-17 12:06:11.610782,CUST5879,Sports & Outdoors,Product 41,6,270.37,Bank Transfer,Europe,Cancelled,1622.22
+ORD100120,2024-03-29 12:06:11.610782,CUST9895,home-kitchen,Product 44,7,443.69,,South America,Completed,3105.83
+ORD100121,2025-02-03 12:06:11.610782,CUST9278,Beauty & Health,Product 50,6,230.66,PAYPAL,Europe,Cancelled,1383.96
+ORD100122,2024-05-04 12:06:11.610782,CUST1526,Sports & Outdoors,,9,127.23,PAYPAL,Europe,Cancelled,1145.07
+ORD100123,2024-04-26 12:06:11.610782,CUST7927,CLOTHING,Product 4,1,176.37,creditcard,,Cancelled,176.37
+ORD100124,2024-03-24 12:06:11.610782,CUST1003,Beauty & Health,Product 26,10,460.94,Bank Transfer,,Cancelled,4609.4
+ORD100125,2025-01-10 12:06:11.610782,CUST5452,electronics,Product 4,4,312.14,Gift Card,Europe,Completed,1248.56
+ORD100126,2024-11-10 12:06:11.610782,CUST2776,Sports & Outdoors,Product 28,1,396.29,PAYPAL,,Cancelled,396.29
+ORD100127,2025-01-31 12:06:11.610782,CUST7987,home-kitchen,Product 2,1,35.89,Gift Card,Asia,Pending,35.89
+ORD100128,2024-11-26 12:06:11.610782,CUST8485,,Product 47,10,459.89,Bank Transfer,Europe,Cancelled,4598.9
+ORD100129,2025-01-03 12:06:11.610782,CUST3035,Beauty & Health,Product 43,2,366.5,Gift Card,South America,Pending,733.0
+ORD100130,2024-05-23 12:06:11.610782,,home-kitchen,Product 20,4,303.87,Bank Transfer,Asia,Cancelled,1215.48
+ORD100131,2024-11-09 12:06:11.610782,CUST9964,CLOTHING,Product 19,8,427.34,Gift Card,,,3418.72
+ORD100132,2025-02-20 12:06:11.610782,CUST3759,home-kitchen,Product 33,1,53.52,Gift Card,South America,Completed,53.52
+ORD100133,2024-07-01 12:06:11.610782,CUST2859,CLOTHING,Product 3,2,283.07,,South America,,566.14
+ORD100134,2024-06-02 12:06:11.610782,CUST9979,home-kitchen,Product 7,10,44.02,PAYPAL,South America,Completed,440.2
+ORD100135,2024-08-26 12:06:11.610782,CUST8047,CLOTHING,Product 28,3,425.79,PAYPAL,Asia,,1277.37
+ORD100136,2024-12-09 12:06:11.610782,CUST8087,home-kitchen,,9,349.01,Bank Transfer,South America,Pending,3141.09
+ORD100137,2024-03-10 12:06:11.610782,CUST1815,CLOTHING,Product 21,4,260.1,Bank Transfer,North America,Pending,1040.4
+ORD100138,2024-07-01 12:06:11.610782,CUST5651,home-kitchen,Product 17,7,132.8,Bank Transfer,Europe,,929.6
+ORD100139,2024-07-26 12:06:11.610782,CUST1820,electronics,Product 8,6,174.08,Gift Card,North America,Pending,1044.48
+ORD100140,2024-08-03 12:06:11.610782,CUST1438,home-kitchen,Product 21,6,158.18,Bank Transfer,Asia,Completed,949.08
+ORD100141,2024-06-08 12:06:11.610782,CUST4387,Sports & Outdoors,Product 28,3,132.56,PAYPAL,Africa,Cancelled,397.68
+ORD100142,2024-03-07 12:06:11.610782,CUST3904,Beauty & Health,Product 7,5,341.05,PAYPAL,Asia,Pending,1705.25
+ORD100143,2025-01-19 12:06:11.610782,CUST1487,Sports & Outdoors,Product 19,9,84.51,creditcard,Europe,Pending,760.59
+ORD100144,2024-09-21 12:06:11.610782,CUST8235,Beauty & Health,Product 46,2,80.99,,Africa,Pending,161.98
+ORD100145,2024-04-25 12:06:11.610782,CUST9249,Sports & Outdoors,,9,382.27,creditcard,Europe,Pending,3440.43
+ORD100146,2024-11-11 12:06:11.610782,CUST6791,electronics,Product 10,9,483.06,creditcard,Europe,Pending,4347.54
+ORD100147,2024-08-15 12:06:11.610782,CUST7894,home-kitchen,Product 48,9,150.29,Bank Transfer,South America,Completed,1352.61
+ORD100148,2024-09-08 12:06:11.610782,CUST1749,Beauty & Health,Product 5,8,25.21,PAYPAL,Europe,Pending,201.68
+ORD100149,2024-12-05 12:06:11.610782,CUST5277,Beauty & Health,Product 45,5,49.46,Bank Transfer,Africa,Pending,247.3
+ORD100150,2025-01-08 12:06:11.610782,CUST5813,CLOTHING,Product 9,2,155.24,,Africa,Cancelled,310.48
+ORD100151,2024-05-19 12:06:11.610782,CUST9703,Sports & Outdoors,Product 47,10,227.15,,Africa,,2271.5
+ORD100152,2025-01-28 12:06:11.610782,CUST4283,CLOTHING,Product 20,4,176.94,Gift Card,North America,Pending,707.76
+ORD100153,2024-07-11 12:06:11.610782,CUST4688,Sports & Outdoors,Product 24,2,33.52,PAYPAL,,Completed,67.04
+ORD100154,2024-08-20 12:06:11.610782,CUST2863,electronics,Product 40,5,90.07,PAYPAL,North America,Pending,450.35
+ORD100155,2024-04-26 12:06:11.610782,CUST3098,CLOTHING,Product 2,6,32.6,creditcard,Africa,Cancelled,195.6
+ORD100156,2024-03-14 12:06:11.610782,CUST9441,Sports & Outdoors,Product 9,1,197.91,,North America,Cancelled,197.91
+ORD100157,2024-05-11 12:06:11.610782,CUST1299,Beauty & Health,Product 42,5,418.53,Gift Card,Asia,Completed,2092.65
+ORD100158,2024-11-22 12:06:11.610782,CUST2139,home-kitchen,Product 28,6,47.15,creditcard,Europe,Pending,282.9
+ORD100159,2024-12-27 12:06:11.610782,CUST2012,Beauty & Health,Product 27,2,50.29,creditcard,Asia,Completed,100.58
+ORD100160,2025-01-11 12:06:11.610782,CUST6896,home-kitchen,Product 27,2,466.5,Gift Card,Asia,Cancelled,933.0
+ORD100161,2024-06-24 12:06:11.610782,CUST7215,Beauty & Health,Product 38,5,425.93,Bank Transfer,South America,Completed,2129.65
+ORD100162,2025-01-29 12:06:11.610782,CUST3765,home-kitchen,Product 27,3,384.76,Bank Transfer,Asia,Completed,1154.28
+ORD100163,2024-09-04 12:06:11.610782,CUST1383,home-kitchen,Product 37,10,429.26,,Africa,Cancelled,4292.6
+ORD100164,2024-09-30 12:06:11.610782,CUST9123,Beauty & Health,Product 15,7,102.62,creditcard,South America,Pending,718.34
+ORD100165,2024-12-30 12:06:11.610782,CUST7112,home-kitchen,Product 28,4,304.11,creditcard,Europe,Completed,1216.44
+ORD100166,2025-01-01 12:06:11.610782,CUST9542,electronics,Product 48,7,427.03,creditcard,North America,Completed,2989.21
+ORD100167,2024-05-24 12:06:11.610782,CUST2422,Sports & Outdoors,Product 28,6,242.46,Bank Transfer,South America,Cancelled,1454.76
+ORD100168,2024-03-25 12:06:11.610782,CUST5364,,Product 13,8,212.47,creditcard,Europe,Completed,1699.76
+ORD100169,2025-02-13 12:06:11.610782,CUST6271,Sports & Outdoors,Product 25,10,188.05,Bank Transfer,South America,Cancelled,1880.5
+ORD100170,2024-08-09 12:06:11.610782,CUST6349,CLOTHING,Product 14,5,86.72,PAYPAL,Europe,Cancelled,433.6
+ORD100171,2024-10-26 12:06:11.610782,,Sports & Outdoors,Product 39,6,214.7,Bank Transfer,Europe,,1288.2
+ORD100172,2024-04-09 12:06:11.610782,CUST1493,,Product 46,9,451.53,Gift Card,North America,Completed,4063.77
+ORD100173,2024-07-07 12:06:11.610782,CUST7439,Beauty & Health,Product 20,9,337.51,PAYPAL,North America,Pending,3037.59
+ORD100174,2024-06-06 12:06:11.610782,CUST4687,home-kitchen,Product 37,10,289.99,Bank Transfer,Asia,Pending,2899.9
+ORD100175,2025-01-13 12:06:11.610782,CUST9738,home-kitchen,Product 29,6,434.13,Gift Card,Africa,Pending,2604.78
+ORD100176,2024-12-02 12:06:11.610782,CUST2541,Beauty & Health,Product 49,5,354.22,Gift Card,North America,Pending,1771.1
+ORD100177,2024-09-22 12:06:11.610782,CUST8810,CLOTHING,Product 45,5,214.42,Gift Card,,Pending,1072.1
+ORD100178,2024-05-31 12:06:11.610782,CUST6097,CLOTHING,Product 29,6,450.41,Bank Transfer,Asia,Pending,2702.46
+ORD100179,2024-04-05 12:06:11.610782,CUST5598,electronics,Product 31,6,479.67,Bank Transfer,,Cancelled,2878.02
+ORD100180,2024-11-22 12:06:11.610782,CUST6070,Sports & Outdoors,Product 37,5,78.61,PAYPAL,Africa,Pending,393.05
+ORD100181,2024-03-19 12:06:11.610782,CUST1228,Sports & Outdoors,Product 47,2,293.15,PAYPAL,Europe,Completed,586.3
+ORD100182,2024-06-15 12:06:11.610782,CUST2815,Sports & Outdoors,Product 48,2,217.83,Bank Transfer,South America,,435.66
+ORD100183,2024-08-06 12:06:11.610782,CUST6207,electronics,Product 8,4,457.41,PAYPAL,South America,Cancelled,1829.64
+ORD100184,2024-08-02 12:06:11.610782,CUST9159,home-kitchen,Product 1,2,214.18,Bank Transfer,Asia,Pending,428.36
+ORD100185,2025-02-04 12:06:11.610782,CUST3593,Beauty & Health,Product 49,2,76.15,Gift Card,South America,Completed,152.3
+ORD100186,2024-07-30 12:06:11.610782,CUST9873,electronics,Product 27,4,21.84,,North America,Completed,87.36
+ORD100187,2024-12-08 12:06:11.610782,CUST9534,CLOTHING,Product 6,10,187.02,creditcard,South America,Pending,1870.2
+ORD100188,2024-12-14 12:06:11.610782,CUST1581,electronics,Product 3,9,138.57,Gift Card,North America,Completed,1247.13
+ORD100189,2024-04-28 12:06:11.610782,CUST6019,home-kitchen,Product 43,6,292.18,creditcard,South America,Cancelled,1753.08
+ORD100190,2025-02-08 12:06:11.610782,CUST9111,Sports & Outdoors,Product 37,10,206.92,creditcard,Europe,Completed,2069.2
+ORD100191,2024-08-22 12:06:11.610782,CUST2510,home-kitchen,Product 50,10,395.45,Gift Card,Asia,,3954.5
+ORD100192,2024-06-09 12:06:11.610782,,electronics,,1,447.35,creditcard,Europe,Pending,447.35
+ORD100193,2024-03-10 12:06:11.610782,CUST9798,Beauty & Health,Product 45,1,179.18,creditcard,,Cancelled,179.18
+ORD100194,2024-06-09 12:06:11.610782,CUST3532,,Product 45,5,65.44,Gift Card,Europe,Pending,327.2
+ORD100195,2024-10-07 12:06:11.610782,CUST1435,electronics,Product 43,2,201.44,Bank Transfer,North America,Completed,402.88
+ORD100196,2025-02-22 12:06:11.610782,CUST9885,Beauty & Health,Product 29,10,321.76,Gift Card,North America,Completed,3217.6
+ORD100197,2025-01-20 12:06:11.610782,CUST3974,home-kitchen,Product 34,9,206.83,creditcard,Europe,Completed,1861.47
+ORD100198,2024-06-22 12:06:11.610782,CUST6295,Beauty & Health,Product 8,2,390.18,,Europe,Cancelled,780.36
+ORD100199,2024-07-05 12:06:11.610782,CUST9525,CLOTHING,Product 17,5,51.24,PAYPAL,Africa,Pending,256.2
+ORD100200,2024-12-27 12:06:11.610782,CUST1396,Beauty & Health,Product 38,1,192.64,Gift Card,Europe,Pending,192.64
+ORD100201,2024-11-22 12:06:11.610782,CUST4386,home-kitchen,Product 13,1,105.25,Bank Transfer,Asia,Completed,105.25
+ORD100202,2024-04-08 12:06:11.610782,CUST6751,,Product 34,8,193.45,creditcard,Asia,Completed,1547.6
+ORD100203,2024-11-18 12:06:11.610782,,home-kitchen,Product 45,6,385.55,creditcard,Asia,Cancelled,2313.3
+ORD100204,2024-04-09 12:06:11.610782,CUST5465,electronics,Product 1,10,487.89,PAYPAL,Africa,Cancelled,4878.9
+ORD100205,2024-11-04 12:06:11.610782,CUST3129,home-kitchen,Product 2,5,232.25,PAYPAL,Africa,Cancelled,1161.25
+ORD100206,2024-03-24 12:06:11.610782,CUST5133,home-kitchen,Product 25,10,18.67,Gift Card,,Pending,186.7
+ORD100207,2024-09-30 12:06:11.610782,CUST7483,home-kitchen,Product 46,9,303.54,Bank Transfer,South America,Cancelled,2731.86
+ORD100208,2024-04-14 12:06:11.610782,CUST1661,Beauty & Health,Product 12,5,218.51,PAYPAL,South America,Pending,1092.55
+ORD100209,2024-04-08 12:06:11.610782,CUST1436,Sports & Outdoors,Product 1,9,28.02,Bank Transfer,Europe,Pending,252.18
+ORD100210,2025-02-11 12:06:11.610782,CUST8377,home-kitchen,Product 40,2,268.4,Bank Transfer,North America,Completed,536.8
+ORD100211,2025-02-05 12:06:11.610782,CUST5253,home-kitchen,Product 47,6,379.06,Bank Transfer,Europe,Pending,2274.36
+ORD100212,2025-01-16 12:06:11.610782,CUST4611,CLOTHING,Product 19,9,462.0,Gift Card,Asia,Pending,4158.0
+ORD100213,2024-08-07 12:06:11.610782,,Sports & Outdoors,Product 47,10,346.3,Gift Card,Europe,Completed,3463.0
+ORD100214,2024-08-02 12:06:11.610782,CUST7950,Beauty & Health,Product 3,6,334.07,Bank Transfer,North America,Completed,2004.42
+ORD100215,2025-02-01 12:06:11.610782,CUST4611,electronics,Product 31,4,280.16,PAYPAL,South America,Pending,1120.64
+ORD100216,2024-08-08 12:06:11.610782,CUST1339,home-kitchen,Product 38,9,311.8,PAYPAL,Europe,Completed,2806.2
+ORD100217,2024-03-11 12:06:11.610782,CUST8498,Beauty & Health,Product 49,3,263.56,Gift Card,Asia,Completed,790.68
+ORD100218,2025-01-12 12:06:11.610782,CUST5552,Beauty & Health,Product 46,7,442.42,Bank Transfer,South America,Pending,3096.94
+ORD100219,2024-08-23 12:06:11.610782,CUST5548,CLOTHING,,3,351.02,Gift Card,Asia,Completed,1053.06
+ORD100220,2024-09-02 12:06:11.610782,CUST8829,home-kitchen,Product 45,4,313.5,Bank Transfer,South America,Pending,1254.0
+ORD100221,2025-02-12 12:06:11.610782,CUST8300,electronics,Product 18,5,463.83,creditcard,Asia,Completed,2319.15
+ORD100222,2024-11-08 12:06:11.610782,CUST9724,CLOTHING,Product 27,2,204.61,Bank Transfer,,Pending,409.22
+ORD100223,2024-08-22 12:06:11.610782,CUST4850,CLOTHING,Product 1,10,426.24,Gift Card,Europe,Pending,4262.4
+ORD100224,2024-12-12 12:06:11.610782,CUST8578,,Product 41,7,133.23,,Europe,Completed,932.61
+ORD100225,2024-10-22 12:06:11.610782,CUST8322,CLOTHING,Product 16,4,152.67,Gift Card,Europe,Pending,610.68
+ORD100226,2024-06-05 12:06:11.610782,CUST5348,CLOTHING,Product 29,5,346.36,PAYPAL,Europe,Pending,1731.8
+ORD100227,2025-01-10 12:06:11.610782,CUST9959,electronics,Product 21,6,235.77,creditcard,Europe,Pending,1414.62
+ORD100228,2024-06-20 12:06:11.610782,CUST9586,Sports & Outdoors,,4,481.4,Gift Card,Asia,,1925.6
+ORD100229,2024-05-26 12:06:11.610782,CUST5532,CLOTHING,Product 26,5,490.98,Gift Card,North America,Pending,2454.9
+ORD100230,2024-06-15 12:06:11.610782,CUST3146,CLOTHING,Product 30,2,314.87,,North America,Completed,629.74
+ORD100231,2024-12-15 12:06:11.610782,CUST3364,CLOTHING,Product 12,10,439.87,creditcard,Asia,Pending,4398.7
+ORD100232,2024-03-11 12:06:11.610782,CUST6313,,Product 41,8,308.56,,Europe,Cancelled,2468.48
+ORD100233,2024-10-28 12:06:11.610782,CUST5115,Beauty & Health,Product 8,1,18.11,PAYPAL,North America,Pending,18.11
+ORD100234,2024-04-26 12:06:11.610782,CUST7135,,Product 4,6,33.55,Bank Transfer,Europe,,201.3
+ORD100235,2024-10-17 12:06:11.610782,CUST6173,electronics,Product 24,4,130.75,Gift Card,,Completed,523.0
+ORD100236,2024-06-15 12:06:11.610782,,CLOTHING,Product 31,5,443.12,Gift Card,North America,Pending,2215.6
+ORD100237,2025-02-22 12:06:11.610782,,CLOTHING,,6,175.96,Gift Card,Asia,Cancelled,1055.76
+ORD100238,2024-08-22 12:06:11.610782,CUST3337,Beauty & Health,Product 38,10,267.29,Bank Transfer,South America,Completed,2672.9
+ORD100239,2024-03-24 12:06:11.610782,CUST6322,electronics,Product 33,2,317.43,Gift Card,North America,Pending,634.86
+ORD100240,2024-06-09 12:06:11.610782,CUST3686,home-kitchen,Product 34,5,76.33,Bank Transfer,Europe,Pending,381.65
+ORD100241,2025-02-04 12:06:11.610782,CUST4604,electronics,Product 11,2,168.35,creditcard,Africa,Pending,336.7
+ORD100242,2024-06-17 12:06:11.610782,CUST8951,home-kitchen,Product 25,6,492.5,PAYPAL,Africa,Cancelled,2955.0
+ORD100243,2024-11-11 12:06:11.610782,CUST9159,Beauty & Health,Product 1,4,442.11,Gift Card,Africa,Pending,1768.44
+ORD100244,2024-12-29 12:06:11.610782,CUST1586,,Product 37,8,79.94,Bank Transfer,North America,Cancelled,639.52
+ORD100245,2024-08-17 12:06:11.610782,CUST7997,CLOTHING,Product 22,4,328.68,Gift Card,South America,Cancelled,1314.72
+ORD100246,2024-06-11 12:06:11.610782,CUST4483,CLOTHING,Product 29,7,466.72,Bank Transfer,,Pending,3267.04
+ORD100247,2024-04-28 12:06:11.610782,CUST2960,electronics,,7,195.26,Bank Transfer,South America,Completed,1366.82
+ORD100248,2024-08-03 12:06:11.610782,CUST8593,home-kitchen,Product 23,3,156.88,PAYPAL,North America,Pending,470.64
+ORD100249,2024-08-16 12:06:11.610782,CUST5488,CLOTHING,Product 41,3,137.32,Gift Card,South America,Cancelled,411.96
+ORD100250,2024-06-26 12:06:11.610782,CUST3440,home-kitchen,Product 16,3,46.89,creditcard,Europe,,140.67
+ORD100251,2025-02-09 12:06:11.610782,CUST1644,Sports & Outdoors,Product 44,2,285.39,PAYPAL,Europe,Pending,570.78
+ORD100252,2024-07-08 12:06:11.610782,CUST6868,CLOTHING,Product 26,6,409.67,,Africa,Cancelled,2458.02
+ORD100253,2025-01-04 12:06:11.610782,CUST5820,home-kitchen,Product 7,5,277.42,Gift Card,Asia,Completed,1387.1
+ORD100254,2024-07-17 12:06:11.610782,CUST3812,,,6,297.03,PAYPAL,Europe,Cancelled,1782.18
+ORD100255,2024-12-11 12:06:11.610782,CUST2310,Beauty & Health,Product 2,7,121.2,creditcard,South America,Pending,848.4
+ORD100256,2024-06-11 12:06:11.610782,CUST1760,home-kitchen,Product 29,4,175.13,creditcard,Africa,Completed,700.52
+ORD100257,2024-04-09 12:06:11.610782,CUST2617,home-kitchen,Product 21,4,323.07,Gift Card,South America,Cancelled,1292.28
+ORD100258,2025-02-20 12:06:11.610782,CUST8538,Sports & Outdoors,Product 12,9,110.54,creditcard,North America,Completed,994.86
+ORD100259,2025-02-05 12:06:11.610782,CUST1912,electronics,Product 30,2,115.57,creditcard,South America,Completed,231.14
+ORD100260,2024-03-03 12:06:11.610782,CUST4213,Beauty & Health,Product 40,2,248.84,Gift Card,Africa,Pending,497.68
+ORD100261,2024-11-12 12:06:11.610782,CUST1654,home-kitchen,Product 36,3,274.97,Bank Transfer,North America,Cancelled,824.91
+ORD100262,2024-03-10 12:06:11.610782,CUST6886,CLOTHING,Product 29,9,19.56,Gift Card,South America,Pending,176.04
+ORD100263,2024-08-29 12:06:11.610782,CUST2421,home-kitchen,Product 31,4,37.84,PAYPAL,North America,,151.36
+ORD100264,2024-06-23 12:06:11.610782,CUST4699,home-kitchen,,2,242.2,Gift Card,Africa,Completed,484.4
+ORD100265,2024-06-18 12:06:11.610782,CUST8959,Beauty & Health,Product 44,2,120.41,PAYPAL,Europe,Cancelled,240.82
+ORD100266,2024-11-06 12:06:11.610782,CUST5735,electronics,,5,466.39,creditcard,Europe,Completed,2331.95
+ORD100267,2024-03-20 12:06:11.610782,CUST4570,home-kitchen,Product 40,4,443.32,Bank Transfer,Asia,Completed,1773.28
+ORD100268,2024-05-25 12:06:11.610782,CUST2518,Sports & Outdoors,Product 29,10,407.4,PAYPAL,,Completed,4074.0
+ORD100269,2024-06-22 12:06:11.610782,CUST5173,Sports & Outdoors,Product 10,4,330.13,Bank Transfer,Africa,Pending,1320.52
+ORD100270,2024-05-16 12:06:11.610782,CUST1139,home-kitchen,Product 3,5,484.86,PAYPAL,South America,Pending,2424.3
+ORD100271,2024-06-03 12:06:11.610782,CUST4088,CLOTHING,Product 39,10,121.11,PAYPAL,Africa,Completed,1211.1
+ORD100272,2024-11-01 12:06:11.610782,CUST5097,home-kitchen,Product 45,8,130.97,Bank Transfer,,Cancelled,1047.76
+ORD100273,2024-09-25 12:06:11.610782,CUST6775,electronics,Product 21,9,454.99,Bank Transfer,North America,Pending,4094.91
+ORD100274,2024-11-10 12:06:11.610782,CUST8237,Sports & Outdoors,Product 33,8,305.44,Bank Transfer,North America,Completed,2443.52
+ORD100275,2024-04-24 12:06:11.610782,CUST9076,Beauty & Health,Product 22,6,498.49,PAYPAL,,Cancelled,2990.94
+ORD100276,2025-02-04 12:06:11.610782,,Beauty & Health,Product 5,3,448.79,Bank Transfer,Asia,Completed,1346.37
+ORD100277,2024-10-08 12:06:11.610782,CUST9580,home-kitchen,Product 37,10,40.51,PAYPAL,South America,Cancelled,405.1
+ORD100278,2024-11-20 12:06:11.610782,CUST5631,Sports & Outdoors,Product 28,5,88.87,PAYPAL,Asia,Cancelled,444.35
+ORD100279,2025-02-13 12:06:11.610782,CUST1783,Beauty & Health,Product 42,9,354.39,Gift Card,North America,Completed,3189.51
+ORD100280,2024-03-14 12:06:11.610782,CUST8261,home-kitchen,Product 49,3,323.84,PAYPAL,Africa,Pending,971.52
+ORD100281,2024-07-12 12:06:11.610782,,electronics,Product 43,7,180.57,PAYPAL,Europe,Completed,1263.99
+ORD100282,2024-03-25 12:06:11.610782,CUST8867,home-kitchen,Product 23,7,446.87,creditcard,Asia,Completed,3128.09
+ORD100283,2024-12-25 12:06:11.610782,CUST9304,Beauty & Health,Product 37,6,175.69,PAYPAL,Asia,Completed,1054.14
+ORD100284,2024-12-13 12:06:11.610782,CUST5246,electronics,Product 34,4,152.59,Gift Card,South America,Cancelled,610.36
+ORD100285,2024-04-04 12:06:11.610782,CUST1470,Beauty & Health,Product 29,6,217.12,Bank Transfer,North America,Pending,1302.72
+ORD100286,2024-04-11 12:06:11.610782,CUST7645,Beauty & Health,Product 17,5,496.17,PAYPAL,South America,Pending,2480.85
+ORD100287,2024-05-05 12:06:11.610782,CUST8996,CLOTHING,Product 48,8,65.89,PAYPAL,Europe,Cancelled,527.12
+ORD100288,2024-12-19 12:06:11.610782,CUST8529,electronics,Product 36,2,291.82,PAYPAL,Europe,Cancelled,583.64
+ORD100289,2024-11-20 12:06:11.610782,CUST5353,Beauty & Health,Product 14,8,263.72,PAYPAL,Asia,Pending,2109.76
+ORD100290,2024-10-09 12:06:11.610782,CUST3415,Sports & Outdoors,Product 1,10,180.23,creditcard,North America,Cancelled,1802.3
+ORD100291,2024-11-03 12:06:11.610782,CUST8333,home-kitchen,Product 2,3,139.93,Gift Card,North America,Pending,419.79
+ORD100292,2024-05-02 12:06:11.610782,CUST7250,electronics,Product 17,6,223.96,PAYPAL,Asia,Pending,1343.76
+ORD100293,2024-08-29 12:06:11.610782,CUST5071,Sports & Outdoors,Product 27,4,351.16,creditcard,,Cancelled,1404.64
+ORD100294,2024-11-27 12:06:11.610782,CUST2507,Sports & Outdoors,Product 2,9,323.58,Gift Card,Africa,Cancelled,2912.22
+ORD100295,2024-05-08 12:06:11.610782,CUST5884,CLOTHING,Product 21,6,467.2,creditcard,Asia,Completed,2803.2
+ORD100296,2024-10-26 12:06:11.610782,CUST3354,electronics,,8,162.16,Bank Transfer,South America,Pending,1297.28
+ORD100297,2024-12-23 12:06:11.610782,CUST2752,Sports & Outdoors,Product 38,3,326.55,Gift Card,South America,Cancelled,979.65
+ORD100298,2024-11-05 12:06:11.610782,CUST2762,Beauty & Health,Product 45,1,477.63,Gift Card,Europe,,477.63
+ORD100299,2024-05-30 12:06:11.610782,CUST8829,electronics,Product 42,4,481.41,Gift Card,Africa,Pending,1925.64
+ORD100300,2024-05-16 12:06:11.610782,,electronics,Product 5,2,248.23,creditcard,Asia,Cancelled,496.46
+ORD100301,2025-01-09 12:06:11.610782,CUST4586,Beauty & Health,Product 50,9,292.29,Bank Transfer,South America,Completed,2630.61
+ORD100302,2025-01-05 12:06:11.610782,CUST6527,electronics,Product 44,2,102.4,Bank Transfer,Asia,Cancelled,204.8
+ORD100303,2024-08-29 12:06:11.610782,CUST2897,CLOTHING,Product 35,6,23.16,Gift Card,Asia,Cancelled,138.96
+ORD100304,2024-08-06 12:06:11.610782,CUST8034,Beauty & Health,Product 21,10,45.82,Bank Transfer,Africa,Cancelled,458.2
+ORD100305,2025-02-18 12:06:11.610782,CUST1985,home-kitchen,Product 25,2,122.74,Bank Transfer,Asia,Cancelled,245.48
+ORD100306,2024-03-16 12:06:11.610782,CUST1111,home-kitchen,Product 24,2,446.77,Bank Transfer,Africa,Pending,893.54
+ORD100307,2024-08-19 12:06:11.610782,CUST4690,home-kitchen,Product 11,6,468.11,creditcard,Asia,Cancelled,2808.66
+ORD100308,2024-10-27 12:06:11.610782,CUST2694,home-kitchen,Product 10,5,369.18,creditcard,South America,Pending,1845.9
+ORD100309,2024-12-24 12:06:11.610782,CUST9252,electronics,Product 26,9,44.37,PAYPAL,North America,Pending,399.33
+ORD100310,2024-07-07 12:06:11.610782,CUST6276,Beauty & Health,Product 18,7,493.16,PAYPAL,Europe,Completed,3452.12
+ORD100311,2024-05-05 12:06:11.610782,CUST2237,electronics,Product 50,2,76.95,PAYPAL,Europe,Cancelled,153.9
+ORD100312,2024-05-18 12:06:11.610782,CUST4979,,Product 11,8,137.11,creditcard,South America,Cancelled,1096.88
+ORD100313,2025-02-17 12:06:11.610782,CUST8991,electronics,Product 22,4,271.35,PAYPAL,Europe,,1085.4
+ORD100314,2024-04-10 12:06:11.610782,CUST9767,Beauty & Health,Product 19,3,328.93,Gift Card,South America,Completed,986.79
+ORD100315,2025-01-09 12:06:11.610782,CUST9447,home-kitchen,,6,351.11,Bank Transfer,Asia,Pending,2106.66
+ORD100316,2024-09-22 12:06:11.610782,CUST8658,home-kitchen,Product 34,1,113.06,creditcard,North America,Pending,113.06
+ORD100317,2024-11-21 12:06:11.610782,CUST6825,home-kitchen,Product 33,10,306.76,Bank Transfer,Europe,,3067.6
+ORD100318,2024-06-27 12:06:11.610782,CUST3795,Beauty & Health,Product 8,9,74.97,Bank Transfer,Europe,Cancelled,674.73
+ORD100319,2024-11-24 12:06:11.610782,CUST4143,home-kitchen,,5,316.81,PAYPAL,Europe,Pending,1584.05
+ORD100320,2024-11-10 12:06:11.610782,CUST2393,CLOTHING,,2,279.98,creditcard,North America,Completed,559.96
+ORD100321,2025-01-27 12:06:11.610782,CUST5190,electronics,Product 7,7,265.96,creditcard,North America,Completed,1861.72
+ORD100322,2024-07-06 12:06:11.610782,CUST7634,home-kitchen,,7,483.17,Gift Card,Africa,Cancelled,3382.19
+ORD100323,2025-02-04 12:06:11.610782,CUST8465,Sports & Outdoors,Product 22,2,74.84,PAYPAL,,Pending,149.68
+ORD100324,2025-01-19 12:06:11.610782,CUST7895,Sports & Outdoors,Product 2,6,138.54,Gift Card,Europe,Cancelled,831.24
+ORD100325,2024-07-16 12:06:11.610782,CUST3438,electronics,Product 31,7,228.69,creditcard,Europe,Completed,1600.83
+ORD100326,2024-09-03 12:06:11.610782,CUST4379,Beauty & Health,Product 23,5,47.37,PAYPAL,Europe,Cancelled,236.85
+ORD100327,2024-11-20 12:06:11.610782,CUST3739,Beauty & Health,,3,73.93,Gift Card,Asia,Cancelled,221.79
+ORD100328,2024-09-09 12:06:11.610782,,Beauty & Health,Product 22,5,309.39,PAYPAL,North America,Pending,1546.95
+ORD100329,2024-07-27 12:06:11.610782,CUST2665,Beauty & Health,Product 45,9,335.94,,South America,Completed,3023.46
+ORD100330,2024-11-03 12:06:11.610782,CUST5176,Beauty & Health,Product 19,3,140.87,creditcard,Africa,Pending,422.61
+ORD100331,2024-12-07 12:06:11.610782,CUST3819,Beauty & Health,Product 14,4,211.53,creditcard,Europe,Cancelled,846.12
+ORD100332,2024-03-01 12:06:11.610782,CUST7865,home-kitchen,Product 28,7,499.65,creditcard,Asia,Completed,3497.55
+ORD100333,2024-12-14 12:06:11.610782,CUST9180,electronics,Product 29,1,331.61,Gift Card,North America,Completed,331.61
+ORD100334,2024-09-05 12:06:11.610782,CUST2957,home-kitchen,Product 15,6,109.7,creditcard,South America,Completed,658.2
+ORD100335,2024-04-23 12:06:11.610782,CUST2954,Beauty & Health,Product 23,5,77.88,creditcard,South America,Cancelled,389.4
+ORD100336,2024-02-27 12:06:11.610782,CUST9490,Sports & Outdoors,Product 12,1,254.93,creditcard,Europe,Completed,254.93
+ORD100337,2024-10-13 12:06:11.610782,CUST4721,CLOTHING,Product 48,10,228.14,PAYPAL,South America,Pending,2281.4
+ORD100338,2024-12-06 12:06:11.610782,CUST2797,home-kitchen,Product 25,4,278.39,Gift Card,Africa,Cancelled,1113.56
+ORD100339,2024-07-24 12:06:11.610782,CUST3395,home-kitchen,Product 22,4,327.5,Bank Transfer,Asia,Cancelled,1310.0
+ORD100340,2024-05-11 12:06:11.610782,CUST6855,Sports & Outdoors,Product 3,1,484.71,Gift Card,Europe,Completed,484.71
+ORD100341,2024-11-14 12:06:11.610782,CUST8328,Sports & Outdoors,Product 2,9,386.48,Gift Card,South America,Cancelled,3478.32
+ORD100342,2024-04-30 12:06:11.610782,CUST7716,,Product 13,3,226.4,Gift Card,Europe,Cancelled,679.2
+ORD100343,2024-12-03 12:06:11.610782,CUST3549,Beauty & Health,Product 6,10,26.01,Bank Transfer,South America,Completed,260.1
+ORD100344,2024-08-16 12:06:11.610782,CUST8782,home-kitchen,Product 37,1,46.92,PAYPAL,South America,Cancelled,46.92
+ORD100345,2024-08-14 12:06:11.610782,CUST5322,Sports & Outdoors,Product 32,8,226.12,Gift Card,North America,Completed,1808.96
+ORD100346,2024-07-23 12:06:11.610782,CUST5980,home-kitchen,Product 36,3,111.57,PAYPAL,Asia,Pending,334.71
+ORD100347,2024-10-31 12:06:11.610782,CUST8503,electronics,Product 13,1,363.73,Gift Card,Europe,Completed,363.73
+ORD100348,2024-12-23 12:06:11.610782,CUST6899,CLOTHING,Product 18,10,363.32,Gift Card,Europe,Cancelled,3633.2
+ORD100349,2024-12-06 12:06:11.610782,CUST5885,Beauty & Health,Product 6,10,202.62,Gift Card,South America,Pending,2026.2
+ORD100350,2024-10-30 12:06:11.610782,CUST1293,Sports & Outdoors,Product 21,8,345.76,Gift Card,Asia,Cancelled,2766.08
+ORD100351,2025-02-07 12:06:11.610782,CUST3078,home-kitchen,Product 31,10,368.06,PAYPAL,,Cancelled,3680.6
+ORD100352,2024-10-18 12:06:11.610782,CUST2537,electronics,Product 27,8,279.84,Bank Transfer,Asia,Pending,2238.72
+ORD100353,2024-12-14 12:06:11.610782,CUST5404,Sports & Outdoors,Product 41,8,278.81,Bank Transfer,Asia,Completed,2230.48
+ORD100354,2024-02-27 12:06:11.610782,CUST3186,electronics,Product 24,4,221.79,PAYPAL,North America,Cancelled,887.16
+ORD100355,2024-06-14 12:06:11.610782,CUST5475,home-kitchen,Product 47,3,184.03,Gift Card,Asia,Completed,552.09
+ORD100356,2024-06-28 12:06:11.610782,CUST2590,CLOTHING,Product 29,5,136.49,Gift Card,Africa,Cancelled,682.45
+ORD100357,2024-09-05 12:06:11.610782,CUST1512,home-kitchen,Product 37,9,367.47,Gift Card,Africa,Pending,3307.23
+ORD100358,2024-07-08 12:06:11.610782,,Beauty & Health,Product 27,6,191.73,Gift Card,North America,Pending,1150.38
+ORD100359,2025-01-03 12:06:11.610782,CUST6867,CLOTHING,Product 35,6,366.75,PAYPAL,Asia,Cancelled,2200.5
+ORD100360,2024-10-15 12:06:11.610782,,CLOTHING,Product 50,10,260.11,creditcard,North America,Completed,2601.1
+ORD100361,2024-08-03 12:06:11.610782,CUST2655,home-kitchen,Product 38,8,90.16,creditcard,Europe,Completed,721.28
+ORD100362,2024-08-04 12:06:11.610782,CUST6866,Sports & Outdoors,Product 15,3,63.19,creditcard,Africa,Completed,189.57
+ORD100363,2025-02-01 12:06:11.610782,CUST9073,Sports & Outdoors,Product 30,2,312.31,PAYPAL,Europe,Pending,624.62
+ORD100364,2025-02-19 12:06:11.610782,CUST2545,CLOTHING,Product 4,9,324.72,Gift Card,Europe,Cancelled,2922.48
+ORD100365,2025-01-26 12:06:11.610782,CUST9236,home-kitchen,Product 44,8,102.97,creditcard,South America,Completed,823.76
+ORD100366,2024-04-25 12:06:11.610782,CUST6037,CLOTHING,Product 39,6,178.54,Gift Card,Europe,Completed,1071.24
+ORD100367,2024-06-14 12:06:11.610782,CUST6487,electronics,Product 23,10,456.99,PAYPAL,Europe,Completed,4569.9
+ORD100368,2024-07-23 12:06:11.610782,CUST9883,electronics,Product 33,5,55.73,creditcard,,Pending,278.65
+ORD100369,2024-05-07 12:06:11.610782,CUST5384,home-kitchen,Product 13,4,494.68,Gift Card,North America,Cancelled,1978.72
+ORD100370,2024-06-11 12:06:11.610782,CUST4643,home-kitchen,Product 10,5,72.21,creditcard,North America,Completed,361.05
+ORD100371,2024-04-26 12:06:11.610782,CUST2640,home-kitchen,Product 33,1,123.54,Bank Transfer,South America,Cancelled,123.54
+ORD100372,2024-08-24 12:06:11.610782,CUST5573,Sports & Outdoors,Product 25,1,448.34,Bank Transfer,Europe,Completed,448.34
+ORD100373,2025-01-21 12:06:11.610782,CUST2474,electronics,Product 23,5,216.03,creditcard,Europe,Completed,1080.15
+ORD100374,2024-04-09 12:06:11.610782,CUST5535,Beauty & Health,Product 49,3,80.76,creditcard,North America,Pending,242.28
+ORD100375,2024-11-24 12:06:11.610782,CUST3358,CLOTHING,Product 48,10,40.63,Bank Transfer,South America,Cancelled,406.3
+ORD100376,2024-12-01 12:06:11.610782,CUST5668,home-kitchen,Product 42,7,465.9,Gift Card,South America,Cancelled,3261.3
+ORD100377,2024-08-06 12:06:11.610782,CUST4686,Beauty & Health,Product 25,3,223.41,PAYPAL,North America,Cancelled,670.23
+ORD100378,2024-12-07 12:06:11.610782,CUST2132,Sports & Outdoors,Product 18,6,207.82,Bank Transfer,Africa,Cancelled,1246.92
+ORD100379,2024-02-25 12:06:11.610782,CUST7766,Sports & Outdoors,Product 19,6,188.0,Bank Transfer,North America,Completed,1128.0
+ORD100380,2024-12-29 12:06:11.610782,,CLOTHING,Product 11,9,468.43,creditcard,Asia,Cancelled,4215.87
+ORD100381,2024-07-24 12:06:11.610782,CUST7782,electronics,Product 42,5,81.65,PAYPAL,Europe,Cancelled,408.25
+ORD100382,2024-05-10 12:06:11.610782,CUST1802,Sports & Outdoors,Product 49,10,132.85,,North America,Pending,1328.5
+ORD100383,2024-03-08 12:06:11.610782,CUST2831,home-kitchen,Product 32,5,486.17,PAYPAL,Africa,Completed,2430.85
+ORD100384,2024-11-25 12:06:11.610782,CUST3935,home-kitchen,Product 19,5,97.6,creditcard,North America,Cancelled,488.0
+ORD100385,2025-01-04 12:06:11.610782,CUST8898,Sports & Outdoors,Product 17,4,272.64,PAYPAL,Europe,Cancelled,1090.56
+ORD100386,2024-07-24 12:06:11.610782,CUST7992,Beauty & Health,Product 32,8,401.74,Gift Card,,Cancelled,3213.92
+ORD100387,2024-11-21 12:06:11.610782,CUST7391,Beauty & Health,Product 48,1,448.21,Bank Transfer,Africa,Completed,448.21
+ORD100388,2024-10-10 12:06:11.610782,CUST8082,home-kitchen,Product 4,5,194.01,creditcard,Africa,Cancelled,970.05
+ORD100389,2024-04-25 12:06:11.610782,CUST1339,Beauty & Health,Product 29,3,188.16,creditcard,Asia,Pending,564.48
+ORD100390,2024-04-12 12:06:11.610782,CUST4236,electronics,Product 40,4,330.27,creditcard,North America,Cancelled,1321.08
+ORD100391,2024-12-19 12:06:11.610782,CUST3121,Beauty & Health,Product 13,7,96.5,PAYPAL,Asia,Completed,675.5
+ORD100392,2024-03-06 12:06:11.610782,CUST7152,home-kitchen,Product 43,4,265.68,PAYPAL,Asia,,1062.72
+ORD100393,2024-04-13 12:06:11.610782,CUST7562,electronics,Product 27,5,212.94,Bank Transfer,North America,Completed,1064.7
+ORD100394,2024-04-17 12:06:11.610782,CUST9219,Sports & Outdoors,Product 10,1,141.46,PAYPAL,North America,Pending,141.46
+ORD100395,2024-10-21 12:06:11.610782,CUST4028,Beauty & Health,Product 7,1,244.59,PAYPAL,Europe,Completed,244.59
+ORD100396,2024-10-09 12:06:11.610782,CUST1120,electronics,Product 29,500,171.24,PAYPAL,South America,Completed,1198.68
+ORD100397,2024-03-16 12:06:11.610782,CUST4229,Sports & Outdoors,Product 40,1,252.56,PAYPAL,Asia,Cancelled,252.56
+ORD100398,2024-03-22 12:06:11.610782,CUST4070,Beauty & Health,Product 46,8,104.87,creditcard,Africa,Cancelled,838.96
+ORD100399,2024-06-10 12:06:11.610782,CUST5385,Sports & Outdoors,Product 27,6,148.62,creditcard,Europe,Completed,891.72
+ORD100400,2024-06-25 12:06:11.610782,CUST5362,home-kitchen,Product 2,2,117.23,PAYPAL,Europe,Cancelled,234.46
+ORD100401,2024-04-04 12:06:11.610782,CUST8893,home-kitchen,Product 45,4,145.83,creditcard,North America,,583.32
+ORD100402,2024-03-14 12:06:11.610782,CUST3759,home-kitchen,Product 24,9,420.17,Bank Transfer,North America,Completed,3781.53
+ORD100403,2025-02-13 12:06:11.610782,CUST7175,Beauty & Health,,9,238.47,creditcard,Europe,Pending,2146.23
+ORD100404,2024-04-27 12:06:11.610782,CUST9402,electronics,Product 18,3,280.41,Gift Card,Asia,Pending,841.23
+ORD100405,2024-04-17 12:06:11.610782,CUST6760,Beauty & Health,Product 45,2,42.62,,Africa,Pending,85.24
+ORD100406,2024-03-05 12:06:11.610782,CUST7487,Beauty & Health,Product 28,3,308.83,Gift Card,Africa,Cancelled,926.49
+ORD100407,2024-11-28 12:06:11.610782,CUST6548,CLOTHING,Product 16,4,43.64,Gift Card,Asia,Pending,174.56
+ORD100408,2024-10-01 12:06:11.610782,CUST1312,electronics,Product 32,10,416.78,PAYPAL,Europe,Completed,4167.8
+ORD100409,2024-02-29 12:06:11.610782,CUST1234,Beauty & Health,Product 29,1,217.37,,South America,Pending,217.37
+ORD100410,2024-06-08 12:06:11.610782,CUST3570,Sports & Outdoors,Product 30,6,127.97,creditcard,,Cancelled,767.82
+ORD100411,2025-01-14 12:06:11.610782,CUST1841,Beauty & Health,Product 45,9,415.47,Gift Card,Africa,Pending,3739.23
+ORD100412,2024-03-12 12:06:11.610782,CUST9628,Sports & Outdoors,Product 12,9,409.88,,South America,Cancelled,3688.92
+ORD100413,2024-06-11 12:06:11.610782,CUST2302,electronics,Product 41,5,468.32,Bank Transfer,Europe,Cancelled,2341.6
+ORD100414,2024-11-17 12:06:11.610782,CUST8525,home-kitchen,Product 12,8,303.2,Gift Card,North America,Cancelled,2425.6
+ORD100415,2024-06-29 12:06:11.610782,CUST1116,Sports & Outdoors,Product 46,3,393.04,Gift Card,Asia,Pending,1179.12
+ORD100416,2025-01-28 12:06:11.610782,CUST1780,Beauty & Health,Product 6,1,453.86,Gift Card,South America,Completed,453.86
+ORD100417,2025-02-21 12:06:11.610782,CUST7051,CLOTHING,Product 13,6,365.86,creditcard,,Cancelled,2195.16
+ORD100418,2025-02-01 12:06:11.610782,CUST3933,Sports & Outdoors,Product 48,5,393.05,Gift Card,Africa,Pending,1965.25
+ORD100419,2024-12-30 12:06:11.610782,CUST8233,CLOTHING,Product 32,5,209.01,Gift Card,South America,,1045.05
+ORD100420,2024-08-06 12:06:11.610782,CUST4287,Sports & Outdoors,Product 1,10,400.76,creditcard,Asia,Pending,4007.6
+ORD100421,2024-09-04 12:06:11.610782,CUST2938,home-kitchen,Product 22,3,297.63,creditcard,Asia,Completed,892.89
+ORD100422,2024-11-30 12:06:11.610782,CUST3108,Beauty & Health,Product 48,7,257.61,Gift Card,Europe,Pending,1803.27
+ORD100423,2024-09-24 12:06:11.610782,CUST6667,Sports & Outdoors,Product 33,6,450.37,creditcard,South America,Pending,2702.22
+ORD100424,2025-02-21 12:06:11.610782,CUST6817,home-kitchen,Product 29,6,160.6,creditcard,North America,Cancelled,963.6
+ORD100425,2025-01-27 12:06:11.610782,CUST8542,Sports & Outdoors,Product 18,6,110.66,PAYPAL,Asia,Cancelled,663.96
+ORD100426,2024-09-21 12:06:11.610782,CUST9154,home-kitchen,Product 50,1,210.54,Bank Transfer,South America,Cancelled,210.54
+ORD100427,2024-07-06 12:06:11.610782,CUST4739,CLOTHING,Product 21,7,314.18,Bank Transfer,Africa,Completed,2199.26
+ORD100428,2025-02-06 12:06:11.610782,CUST7328,home-kitchen,Product 24,1,12.08,creditcard,South America,Cancelled,12.08
+ORD100429,2024-09-27 12:06:11.610782,CUST7672,Sports & Outdoors,Product 10,5,304.67,creditcard,Europe,Pending,1523.35
+ORD100430,2024-04-15 12:06:11.610782,CUST6592,,Product 15,5,93.09,creditcard,South America,Pending,465.45
+ORD100431,2025-01-11 12:06:11.610782,CUST7481,electronics,Product 27,4,450.72,Bank Transfer,Asia,Cancelled,1802.88
+ORD100432,2024-04-04 12:06:11.610782,CUST2453,Beauty & Health,Product 25,3,209.41,Gift Card,South America,Pending,628.23
+ORD100433,2024-05-10 12:06:11.610782,CUST4091,Beauty & Health,Product 32,4,105.92,PAYPAL,Africa,Cancelled,423.68
+ORD100434,2024-09-03 12:06:11.610782,CUST1442,Sports & Outdoors,,9,378.12,Bank Transfer,Asia,Cancelled,3403.08
+ORD100435,2024-05-30 12:06:11.610782,CUST7463,Sports & Outdoors,Product 41,2,260.7,creditcard,Africa,Completed,521.4
+ORD100436,2024-06-02 12:06:11.610782,CUST2557,,Product 43,6,293.31,creditcard,Asia,Completed,1759.86
+ORD100437,2024-10-24 12:06:11.610782,CUST9358,CLOTHING,Product 2,10,81.97,Gift Card,South America,Completed,819.7
+ORD100438,2024-03-13 12:06:11.610782,CUST2710,Beauty & Health,Product 50,5,340.47,Gift Card,Asia,Pending,1702.35
+ORD100439,2024-05-02 12:06:11.610782,CUST3137,Sports & Outdoors,Product 5,8,193.18,PAYPAL,Europe,Pending,1545.44
+ORD100440,2024-08-29 12:06:11.610782,CUST8357,electronics,Product 36,5,185.79,PAYPAL,South America,Pending,928.95
+ORD100441,2024-08-21 12:06:11.610782,CUST5598,home-kitchen,Product 48,7,35.0,PAYPAL,North America,Completed,245.0
+ORD100442,2024-12-18 12:06:11.610782,CUST2519,Sports & Outdoors,Product 35,2,16.11,creditcard,North America,Completed,32.22
+ORD100443,2024-12-11 12:06:11.610782,CUST8713,home-kitchen,Product 42,9,448.14,creditcard,Europe,Pending,4033.26
+ORD100444,2024-10-24 12:06:11.610782,CUST9946,Sports & Outdoors,Product 14,9,335.15,Bank Transfer,Asia,Pending,3016.35
+ORD100445,2024-03-13 12:06:11.610782,CUST5328,CLOTHING,Product 13,8,412.91,Gift Card,Europe,Cancelled,3303.28
+ORD100446,2025-02-18 12:06:11.610782,CUST7675,home-kitchen,Product 28,10,497.23,creditcard,Africa,Pending,4972.3
+ORD100447,2024-08-28 12:06:11.610782,CUST1084,electronics,Product 26,1,153.68,,Europe,Cancelled,153.68
+ORD100448,2024-05-17 12:06:11.610782,CUST2013,CLOTHING,Product 27,3,394.46,creditcard,South America,Completed,1183.38
+ORD100449,2024-04-08 12:06:11.610782,CUST6613,Beauty & Health,Product 1,6,404.34,Gift Card,North America,Cancelled,2426.04
+ORD100450,2024-04-04 12:06:11.610782,CUST6393,Beauty & Health,Product 11,2,85.29,PAYPAL,South America,Pending,170.58
+ORD100451,2024-08-30 12:06:11.610782,CUST8188,Sports & Outdoors,Product 45,3,414.07,Bank Transfer,Africa,Pending,1242.21
+ORD100452,2024-03-23 12:06:11.610782,CUST4734,Beauty & Health,Product 16,7,311.02,PAYPAL,Europe,Pending,2177.14
+ORD100453,2024-12-18 12:06:11.610782,CUST9862,home-kitchen,Product 46,10,63.6,Bank Transfer,Europe,Pending,636.0
+ORD100454,2024-04-17 12:06:11.610782,CUST9012,CLOTHING,Product 47,5,467.04,creditcard,Africa,Completed,2335.2
+ORD100455,2024-10-03 12:06:11.610782,CUST6419,CLOTHING,Product 33,6,74.52,PAYPAL,South America,Pending,447.12
+ORD100456,2024-03-25 12:06:11.610782,CUST1921,,Product 39,7,488.64,,Africa,Cancelled,3420.48
+ORD100457,2025-01-17 12:06:11.610782,CUST4267,CLOTHING,Product 16,3,466.64,creditcard,North America,Cancelled,1399.92
+ORD100458,2024-03-02 12:06:11.610782,CUST7665,Beauty & Health,Product 14,9,282.25,Bank Transfer,Europe,Pending,2540.25
+ORD100459,2024-08-18 12:06:11.610782,CUST1386,Beauty & Health,Product 38,2,91.47,Gift Card,Africa,Cancelled,182.94
+ORD100460,2024-04-16 12:06:11.610782,CUST5515,electronics,Product 32,7,165.92,PAYPAL,Europe,Completed,1161.44
+ORD100461,2025-01-23 12:06:11.610782,CUST2200,,Product 29,4,148.88,PAYPAL,North America,Cancelled,595.52
+ORD100462,2024-11-12 12:06:11.610782,CUST8231,CLOTHING,Product 9,1,146.39,Gift Card,South America,Cancelled,146.39
+ORD100463,2024-03-26 12:06:11.610782,CUST7226,CLOTHING,Product 41,4,494.88,PAYPAL,North America,Completed,1979.52
+ORD100464,2024-09-19 12:06:11.610782,CUST1245,Beauty & Health,Product 15,7,187.84,creditcard,Africa,Cancelled,1314.88
+ORD100465,2024-04-08 12:06:11.610782,CUST7137,Beauty & Health,Product 4,1,348.39,creditcard,Asia,Pending,348.39
+ORD100466,2024-02-25 12:06:11.610782,CUST6996,home-kitchen,Product 40,7,307.2,PAYPAL,North America,Completed,2150.4
+ORD100467,2024-10-16 12:06:11.610782,CUST1055,Sports & Outdoors,Product 41,2,398.02,Gift Card,Asia,Cancelled,796.04
+ORD100468,2024-03-08 12:06:11.610782,CUST9356,Sports & Outdoors,Product 20,7,349.03,PAYPAL,Europe,Pending,2443.21
+ORD100469,2024-09-28 12:06:11.610782,CUST3707,Sports & Outdoors,Product 32,8,202.08,,North America,Completed,1616.64
+ORD100470,2024-04-05 12:06:11.610782,CUST3830,home-kitchen,Product 37,6,204.64,Gift Card,Europe,Completed,1227.84
+ORD100471,2024-05-16 12:06:11.610782,CUST4992,Beauty & Health,Product 42,8,293.34,Bank Transfer,,Pending,2346.72
+ORD100472,2024-05-30 12:06:11.610782,CUST2649,,Product 44,4,107.84,creditcard,South America,Cancelled,431.36
+ORD100473,2024-11-11 12:06:11.610782,CUST7694,CLOTHING,Product 26,3,139.21,Gift Card,Europe,Completed,417.63
+ORD100474,2024-09-21 12:06:11.610782,CUST1252,Beauty & Health,Product 2,6,254.12,PAYPAL,South America,Pending,1524.72
+ORD100475,2024-06-12 12:06:11.610782,CUST9040,,Product 29,10,294.13,creditcard,South America,Completed,2941.3
+ORD100476,2024-07-28 12:06:11.610782,CUST1963,Beauty & Health,Product 24,8,470.3,creditcard,Asia,Completed,3762.4
+ORD100477,2024-07-05 12:06:11.610782,CUST1160,Beauty & Health,Product 9,8,493.09,PAYPAL,Asia,Cancelled,3944.72
+ORD100478,2024-08-25 12:06:11.610782,CUST1058,electronics,Product 1,7,40.47,PAYPAL,North America,Cancelled,283.29
+ORD100479,2025-01-24 12:06:11.610782,CUST4744,,Product 41,8,494.85,Gift Card,Asia,Cancelled,3958.8
+ORD100480,2024-08-07 12:06:11.610782,CUST3197,Beauty & Health,Product 44,2,338.31,creditcard,North America,,676.62
+ORD100481,2024-05-01 12:06:11.610782,CUST2483,home-kitchen,Product 13,2,204.07,Bank Transfer,Asia,Pending,408.14
+ORD100482,2024-05-03 12:06:11.610782,CUST9609,Beauty & Health,Product 24,7,387.89,PAYPAL,,Pending,2715.23
+ORD100483,2024-03-05 12:06:11.610782,CUST8483,electronics,Product 48,10,199.74,Bank Transfer,,Completed,1997.4
+ORD100484,2025-02-06 12:06:11.610782,CUST8107,CLOTHING,Product 42,7,52.23,Gift Card,North America,Cancelled,365.61
+ORD100485,2025-01-13 12:06:11.610782,CUST1408,home-kitchen,Product 8,6,473.61,Gift Card,Asia,Pending,2841.66
+ORD100486,2024-05-12 12:06:11.610782,CUST9484,home-kitchen,Product 49,4,275.21,Gift Card,North America,Completed,1100.84
+ORD100487,2025-01-29 12:06:11.610782,CUST8667,home-kitchen,Product 17,5,466.61,Bank Transfer,South America,Cancelled,2333.05
+ORD100488,2024-04-12 12:06:11.610782,CUST6612,CLOTHING,Product 23,10,454.16,creditcard,Asia,Pending,4541.6
+ORD100489,2025-02-09 12:06:11.610782,CUST3741,CLOTHING,Product 46,6,419.63,PAYPAL,South America,Completed,2517.78
+ORD100490,2024-11-29 12:06:11.610782,CUST8921,CLOTHING,Product 17,6,84.72,Bank Transfer,Asia,,508.32
+ORD100491,2024-09-11 12:06:11.610782,,home-kitchen,Product 35,9,247.83,Gift Card,Africa,Cancelled,2230.47
+ORD100492,2024-11-05 12:06:11.610782,CUST7445,Beauty & Health,Product 7,4,190.92,Gift Card,Europe,Cancelled,763.68
+ORD100493,2024-09-28 12:06:11.610782,,CLOTHING,Product 47,6,347.8,Gift Card,North America,Pending,2086.8
+ORD100494,2024-04-04 12:06:11.610782,CUST7055,Beauty & Health,,2,384.28,PAYPAL,North America,Cancelled,768.56
+ORD100495,2025-02-05 12:06:11.610782,CUST2633,Sports & Outdoors,Product 17,10,11.96,PAYPAL,South America,Cancelled,119.6
+ORD100496,2024-07-23 12:06:11.610782,CUST7774,Sports & Outdoors,Product 31,9,361.84,creditcard,South America,Completed,3256.56
+ORD100497,2024-08-31 12:06:11.610782,CUST7900,electronics,Product 15,6,95.34,,South America,Pending,572.04
+ORD100498,2025-01-24 12:06:11.610782,,CLOTHING,Product 11,2,290.65,PAYPAL,Africa,Completed,581.3
+ORD100499,2024-05-30 12:06:11.610782,CUST5293,home-kitchen,Product 45,3,425.78,creditcard,Africa,Pending,1277.34
+ORD100500,2024-05-08 12:06:11.610782,CUST5419,Beauty & Health,Product 40,9,287.31,Gift Card,North America,Completed,2585.79
+ORD100501,2024-06-24 12:06:11.610782,CUST8179,Beauty & Health,Product 40,10,465.04,Gift Card,North America,Cancelled,4650.4
+ORD100502,2025-01-03 12:06:11.610782,CUST8852,home-kitchen,Product 13,10,484.64,PAYPAL,Asia,Cancelled,4846.4
+ORD100503,2024-06-21 12:06:11.610782,CUST8876,home-kitchen,Product 4,6,27.23,Gift Card,Africa,Cancelled,163.38
+ORD100504,2024-11-01 12:06:11.610782,CUST3438,home-kitchen,Product 41,1,227.05,creditcard,Asia,Pending,227.05
+ORD100505,2024-08-01 12:06:11.610782,CUST3770,electronics,Product 9,1,339.14,creditcard,North America,Cancelled,339.14
+ORD100506,2024-10-22 12:06:11.610782,CUST3865,CLOTHING,Product 49,2,329.14,Gift Card,Asia,Completed,658.28
+ORD100507,2024-03-19 12:06:11.610782,CUST1652,Sports & Outdoors,Product 24,4,123.96,Gift Card,South America,Cancelled,495.84
+ORD100508,2024-08-09 12:06:11.610782,CUST6798,Sports & Outdoors,Product 42,9,241.69,,South America,Pending,2175.21
+ORD100509,2024-12-22 12:06:11.610782,CUST3389,Beauty & Health,Product 41,8,50.41,Bank Transfer,Asia,Cancelled,403.28
+ORD100510,2024-07-20 12:06:11.610782,CUST7033,home-kitchen,Product 4,1,355.42,PAYPAL,Asia,Pending,355.42
+ORD100511,2024-11-10 12:06:11.610782,CUST1885,Beauty & Health,Product 15,4,444.78,creditcard,Africa,Pending,1779.12
+ORD100512,2024-11-26 12:06:11.610782,CUST1839,electronics,Product 46,5,196.02,creditcard,South America,Pending,980.1
+ORD100513,2025-01-23 12:06:11.610782,CUST5984,Sports & Outdoors,Product 26,4,202.16,Bank Transfer,North America,Completed,808.64
+ORD100514,2024-12-10 12:06:11.610782,CUST4492,home-kitchen,Product 25,7,27.93,Gift Card,Europe,Cancelled,195.51
+ORD100515,2024-07-14 12:06:11.610782,CUST8024,home-kitchen,Product 27,8,103.56,Bank Transfer,South America,Cancelled,828.48
+ORD100516,2024-08-11 12:06:11.610782,CUST6504,Beauty & Health,Product 34,10,268.4,creditcard,Africa,Completed,2684.0
+ORD100517,2024-07-29 12:06:11.610782,CUST7584,home-kitchen,,2,324.81,creditcard,Asia,Completed,649.62
+ORD100518,2024-07-06 12:06:11.610782,CUST4161,Beauty & Health,Product 35,8,239.28,creditcard,Africa,Cancelled,1914.24
+ORD100519,2024-06-06 12:06:11.610782,CUST5522,electronics,Product 25,6,162.26,PAYPAL,,Cancelled,973.56
+ORD100520,2024-09-20 12:06:11.610782,CUST7614,home-kitchen,Product 28,4,476.49,Gift Card,Europe,Pending,1905.96
+ORD100521,2024-09-29 12:06:11.610782,CUST7424,Beauty & Health,Product 1,3,333.93,PAYPAL,Africa,Completed,1001.79
+ORD100522,2024-09-16 12:06:11.610782,CUST5294,,Product 45,1,311.22,PAYPAL,North America,Pending,311.22
+ORD100523,2024-06-19 12:06:11.610782,CUST1671,electronics,Product 2,9,10.45,creditcard,Africa,Cancelled,94.05
+ORD100524,2024-03-15 12:06:11.610782,CUST7252,Beauty & Health,Product 4,7,470.32,Gift Card,Asia,Pending,3292.24
+ORD100525,2025-01-09 12:06:11.610782,,home-kitchen,Product 38,8,478.48,Gift Card,Africa,Cancelled,3827.84
+ORD100526,2024-10-09 12:06:11.610782,CUST6440,electronics,Product 37,1,11.17,Bank Transfer,Europe,Cancelled,11.17
+ORD100527,2024-07-04 12:06:11.610782,CUST4630,electronics,,6,271.97,PAYPAL,North America,Cancelled,1631.82
+ORD100528,2024-07-21 12:06:11.610782,CUST5903,Sports & Outdoors,Product 19,1,346.53,Bank Transfer,North America,Pending,346.53
+ORD100529,2024-10-13 12:06:11.610782,CUST4053,electronics,Product 31,6,466.7,Gift Card,Asia,Completed,2800.2
+ORD100530,2025-02-20 12:06:11.610782,CUST2094,Sports & Outdoors,Product 2,1,164.81,Bank Transfer,Africa,Pending,164.81
+ORD100531,2024-07-08 12:06:11.610782,CUST4781,home-kitchen,Product 49,6,203.41,Bank Transfer,Europe,Cancelled,1220.46
+ORD100532,2024-10-11 12:06:11.610782,CUST9893,Beauty & Health,Product 18,5,182.86,Gift Card,Asia,Pending,914.3
+ORD100533,2025-02-14 12:06:11.610782,CUST5423,electronics,Product 2,8,51.5,PAYPAL,South America,Pending,412.0
+ORD100534,2024-03-22 12:06:11.610782,CUST1081,Sports & Outdoors,Product 9,3,393.19,PAYPAL,North America,Completed,1179.57
+ORD100535,2024-04-25 12:06:11.610782,CUST9500,Beauty & Health,Product 10,7,89.13,creditcard,North America,Cancelled,623.91
+ORD100536,2024-04-02 12:06:11.610782,CUST5041,electronics,Product 6,9,202.75,creditcard,Europe,Cancelled,1824.75
+ORD100537,2024-08-06 12:06:11.610782,CUST6208,Sports & Outdoors,Product 31,5,481.4,Gift Card,Africa,Cancelled,2407.0
+ORD100538,2024-04-01 12:06:11.610782,CUST6667,electronics,Product 32,4,242.17,Gift Card,North America,Cancelled,968.68
+ORD100539,2024-11-01 12:06:11.610782,CUST4178,Beauty & Health,Product 32,9,84.93,PAYPAL,Africa,Completed,764.37
+ORD100540,2024-04-25 12:06:11.610782,CUST9388,CLOTHING,Product 38,1,25.91,creditcard,North America,Cancelled,25.91
+ORD100541,2024-05-17 12:06:11.610782,CUST4186,Sports & Outdoors,Product 31,8,140.3,Bank Transfer,Europe,Completed,1122.4
+ORD100542,2024-06-09 12:06:11.610782,CUST7966,home-kitchen,Product 32,4,83.8,Gift Card,Europe,Pending,335.2
+ORD100543,2025-02-17 12:06:11.610782,CUST5601,Sports & Outdoors,Product 29,4,254.83,creditcard,South America,Cancelled,1019.32
+ORD100544,2024-11-18 12:06:11.610782,CUST3261,electronics,Product 36,7,227.45,creditcard,South America,Completed,1592.15
+ORD100545,2025-01-01 12:06:11.610782,CUST7420,Sports & Outdoors,Product 40,8,455.79,Gift Card,Europe,Pending,3646.32
+ORD100546,2024-09-28 12:06:11.610782,CUST2874,Sports & Outdoors,Product 1,9,429.44,Bank Transfer,Asia,Pending,3864.96
+ORD100547,2024-06-23 12:06:11.610782,CUST2309,electronics,Product 3,7,21.23,,Asia,Completed,148.61
+ORD100548,2024-03-01 12:06:11.610782,CUST9210,home-kitchen,Product 26,10,481.8,Gift Card,Africa,Completed,4818.0
+ORD100549,2024-08-09 12:06:11.610782,CUST8532,Sports & Outdoors,Product 21,5,460.42,PAYPAL,North America,Pending,2302.1
+ORD100550,2024-10-08 12:06:11.610782,CUST2403,Sports & Outdoors,Product 43,6,181.43,creditcard,South America,Cancelled,1088.58
+ORD100551,2025-01-30 12:06:11.610782,CUST2081,CLOTHING,Product 8,1,406.3,PAYPAL,North America,Cancelled,406.3
+ORD100552,2024-04-06 12:06:11.610782,CUST3254,electronics,Product 43,5,277.78,Bank Transfer,Europe,Pending,1388.9
+ORD100553,2024-05-12 12:06:11.610782,CUST7282,Beauty & Health,Product 16,4,108.16,PAYPAL,Europe,Pending,432.64
+ORD100554,2024-03-18 12:06:11.610782,CUST7006,Sports & Outdoors,Product 38,8,147.41,Gift Card,Europe,Cancelled,1179.28
+ORD100555,2024-06-29 12:06:11.610782,CUST5488,Sports & Outdoors,Product 25,4,62.41,Bank Transfer,Africa,Completed,249.64
+ORD100556,2024-07-21 12:06:11.610782,CUST6812,Beauty & Health,Product 47,7,356.49,Bank Transfer,Europe,Cancelled,2495.43
+ORD100557,2025-01-06 12:06:11.610782,CUST3185,home-kitchen,Product 48,9,87.3,creditcard,Africa,Cancelled,785.7
+ORD100558,2024-12-07 12:06:11.610782,CUST6021,Beauty & Health,Product 41,7,375.44,PAYPAL,North America,Completed,2628.08
+ORD100559,2024-04-17 12:06:11.610782,CUST4663,Sports & Outdoors,Product 30,5,334.05,Gift Card,South America,,1670.25
+ORD100560,2024-12-16 12:06:11.610782,CUST1621,Sports & Outdoors,Product 27,3,273.84,PAYPAL,South America,Completed,821.52
+ORD100561,2024-03-27 12:06:11.610782,CUST6112,electronics,Product 18,6,185.6,Bank Transfer,North America,Cancelled,1113.6
+ORD100562,2025-01-28 12:06:11.610782,CUST4310,home-kitchen,Product 37,5,225.16,Bank Transfer,Asia,,1125.8
+ORD100563,2025-01-11 12:06:11.610782,CUST7260,home-kitchen,Product 3,9,491.67,PAYPAL,Europe,Cancelled,4425.03
+ORD100564,2024-06-20 12:06:11.610782,CUST3517,Sports & Outdoors,Product 38,3,168.62,creditcard,Asia,Cancelled,505.86
+ORD100565,2024-06-10 12:06:11.610782,CUST8832,electronics,Product 31,8,225.89,creditcard,South America,Completed,1807.12
+ORD100566,2024-12-16 12:06:11.610782,CUST8675,Beauty & Health,Product 18,10,492.83,creditcard,Europe,Completed,4928.3
+ORD100567,2024-09-25 12:06:11.610782,CUST5147,electronics,Product 26,3,492.99,PAYPAL,Africa,Completed,1478.97
+ORD100568,2024-03-27 12:06:11.610782,CUST8699,CLOTHING,Product 3,4,337.15,Gift Card,Africa,Cancelled,1348.6
+ORD100569,2025-02-08 12:06:11.610782,CUST6376,CLOTHING,Product 30,2,70.16,Gift Card,South America,Completed,140.32
+ORD100570,2024-03-19 12:06:11.610782,CUST4868,,Product 16,2,265.53,PAYPAL,Europe,Cancelled,531.06
+ORD100571,2024-03-10 12:06:11.610782,CUST4773,electronics,Product 48,6,338.11,,North America,Pending,2028.66
+ORD100572,2024-07-24 12:06:11.610782,CUST5491,Sports & Outdoors,Product 7,1,203.74,Gift Card,South America,Completed,203.74
+ORD100573,2024-07-03 12:06:11.610782,CUST9402,Beauty & Health,Product 32,5,125.92,creditcard,Africa,Pending,629.6
+ORD100574,2024-03-21 12:06:11.610782,CUST9952,Sports & Outdoors,Product 41,9,283.12,creditcard,Asia,Cancelled,2548.08
+ORD100575,2024-07-09 12:06:11.610782,,electronics,Product 32,1,463.96,creditcard,Europe,,463.96
+ORD100576,2025-01-14 12:06:11.610782,CUST1191,CLOTHING,Product 49,4,275.35,Bank Transfer,,Cancelled,1101.4
+ORD100577,2025-02-06 12:06:11.610782,CUST2733,home-kitchen,Product 12,5,475.6,Gift Card,Asia,Completed,2378.0
+ORD100578,2024-12-24 12:06:11.610782,CUST5611,CLOTHING,Product 44,4,397.06,PAYPAL,Europe,Completed,1588.24
+ORD100579,2024-09-21 12:06:11.610782,CUST3437,electronics,Product 27,7,288.45,PAYPAL,South America,Completed,2019.15
+ORD100580,2024-07-11 12:06:11.610782,CUST9487,home-kitchen,Product 7,1,414.26,Gift Card,,Completed,414.26
+ORD100581,2024-04-23 12:06:11.610782,CUST6612,Sports & Outdoors,Product 8,2,243.58,PAYPAL,South America,Pending,487.16
+ORD100582,2024-07-21 12:06:11.610782,CUST6889,CLOTHING,Product 28,7,84.84,Bank Transfer,,Cancelled,593.88
+ORD100583,2024-09-06 12:06:11.610782,CUST2994,,Product 39,6,251.92,PAYPAL,South America,Cancelled,1511.52
+ORD100584,2024-09-11 12:06:11.610782,CUST9003,Sports & Outdoors,Product 45,5,230.98,,North America,Cancelled,1154.9
+ORD100585,2024-09-14 12:06:11.610782,CUST8188,Sports & Outdoors,Product 5,4,93.19,Bank Transfer,North America,Pending,372.76
+ORD100586,2024-06-07 12:06:11.610782,CUST1021,electronics,Product 18,1,140.0,,Asia,Cancelled,140.0
+ORD100587,2024-11-19 12:06:11.610782,,home-kitchen,Product 14,9,431.07,creditcard,Europe,Pending,3879.63
+ORD100588,2024-09-09 12:06:11.610782,CUST3808,CLOTHING,Product 41,4,479.02,creditcard,Africa,Completed,1916.08
+ORD100589,2024-08-12 12:06:11.610782,CUST8812,Beauty & Health,Product 9,5,357.21,PAYPAL,North America,Pending,1786.05
+ORD100590,2024-12-08 12:06:11.610782,,home-kitchen,Product 42,3,421.45,Gift Card,South America,Completed,1264.35
+ORD100591,2025-02-08 12:06:11.610782,CUST1895,CLOTHING,Product 40,1,13.79,Bank Transfer,Asia,Completed,13.79
+ORD100592,2024-08-26 12:06:11.610782,CUST2078,CLOTHING,Product 8,3,497.2,Gift Card,Asia,Cancelled,1491.6
+ORD100593,2024-12-02 12:06:11.610782,CUST2971,electronics,Product 34,8,15.46,Gift Card,North America,Completed,123.68
+ORD100594,2024-12-28 12:06:11.610782,CUST1583,Beauty & Health,Product 9,8,27.18,Gift Card,North America,Completed,217.44
+ORD100595,2024-07-08 12:06:11.610782,,Sports & Outdoors,Product 43,8,127.2,Bank Transfer,South America,Completed,1017.6
+ORD100596,2024-08-19 12:06:11.610782,,Sports & Outdoors,Product 31,4,334.34,Gift Card,North America,Pending,1337.36
+ORD100597,2024-03-09 12:06:11.610782,CUST6420,Beauty & Health,Product 44,5,181.02,Bank Transfer,Europe,Pending,905.1
+ORD100598,2024-10-17 12:06:11.610782,CUST5736,home-kitchen,Product 43,6,220.54,Gift Card,South America,Cancelled,1323.24
+ORD100599,2024-09-12 12:06:11.610782,CUST9082,CLOTHING,,1,428.16,creditcard,,Completed,428.16
+ORD100600,2024-03-16 12:06:11.610782,CUST6377,electronics,Product 1,4,322.14,PAYPAL,Europe,Cancelled,1288.56
+ORD100601,2024-08-21 12:06:11.610782,CUST7957,Beauty & Health,Product 37,7,413.53,Bank Transfer,Asia,Completed,2894.71
+ORD100602,2025-01-14 12:06:11.610782,CUST8934,Beauty & Health,Product 10,8,386.78,Gift Card,Europe,Pending,3094.24
+ORD100603,2024-05-11 12:06:11.610782,CUST3775,electronics,Product 23,7,49.6,Bank Transfer,Europe,Pending,347.2
+ORD100604,2024-06-03 12:06:11.610782,CUST8094,electronics,Product 33,3,178.65,PAYPAL,Europe,Cancelled,535.95
+ORD100605,2025-02-02 12:06:11.610782,CUST4559,Sports & Outdoors,Product 22,4,335.96,creditcard,South America,Cancelled,1343.84
+ORD100606,2024-09-11 12:06:11.610782,,CLOTHING,Product 30,8,372.98,Gift Card,Europe,Pending,2983.84
+ORD100607,2024-04-27 12:06:11.610782,CUST7760,Beauty & Health,Product 46,1,257.96,Gift Card,North America,Cancelled,257.96
+ORD100608,2024-10-27 12:06:11.610782,CUST8689,Beauty & Health,Product 5,8,365.81,Bank Transfer,Asia,Pending,2926.48
+ORD100609,2024-05-01 12:06:11.610782,CUST8424,home-kitchen,Product 10,3,71.06,creditcard,North America,Completed,213.18
+ORD100610,2024-03-22 12:06:11.610782,CUST6619,home-kitchen,Product 31,4,234.67,Gift Card,Africa,Pending,938.68
+ORD100611,2024-03-26 12:06:11.610782,CUST6392,electronics,Product 18,10,273.85,,Europe,Cancelled,2738.5
+ORD100612,2024-05-30 12:06:11.610782,CUST9612,home-kitchen,Product 42,10,190.03,Gift Card,North America,Completed,1900.3
+ORD100613,2025-01-05 12:06:11.610782,CUST3641,electronics,Product 43,10,76.32,PAYPAL,Europe,Cancelled,763.2
+ORD100614,2024-07-28 12:06:11.610782,CUST9252,Beauty & Health,Product 22,4,351.16,creditcard,South America,Completed,1404.64
+ORD100615,2025-01-26 12:06:11.610782,CUST2189,CLOTHING,Product 30,5,281.75,PAYPAL,Asia,Pending,1408.75
+ORD100616,2024-11-19 12:06:11.610782,CUST2373,CLOTHING,,1,406.16,creditcard,South America,Pending,406.16
+ORD100617,2024-02-25 12:06:11.610782,CUST7297,home-kitchen,Product 19,2,67.42,,North America,Pending,134.84
+ORD100618,2024-10-02 12:06:11.610782,CUST4550,home-kitchen,Product 31,6,43.45,creditcard,South America,Cancelled,260.7
+ORD100619,2024-05-21 12:06:11.610782,CUST3773,Sports & Outdoors,Product 16,6,472.2,PAYPAL,North America,Cancelled,2833.2
+ORD100620,2024-08-20 12:06:11.610782,CUST6447,Beauty & Health,Product 30,9,244.52,Bank Transfer,South America,Completed,2200.68
+ORD100621,2024-10-04 12:06:11.610782,CUST3865,Beauty & Health,Product 14,9,139.15,creditcard,Asia,Cancelled,1252.35
+ORD100622,2024-05-01 12:06:11.610782,CUST8095,electronics,Product 9,4,235.75,creditcard,South America,Pending,943.0
+ORD100623,2024-09-21 12:06:11.610782,CUST3592,Beauty & Health,Product 23,8,89.12,Bank Transfer,Asia,Completed,712.96
+ORD100624,2025-01-17 12:06:11.610782,CUST5042,Beauty & Health,Product 12,8,134.57,creditcard,,Cancelled,1076.56
+ORD100625,2024-10-15 12:06:11.610782,CUST3820,Sports & Outdoors,Product 18,9,223.23,PAYPAL,Europe,Cancelled,2009.07
+ORD100626,2024-11-25 12:06:11.610782,CUST3508,home-kitchen,Product 31,6,275.18,Bank Transfer,,Cancelled,1651.08
+ORD100627,2024-03-29 12:06:11.610782,CUST6014,,Product 12,6,201.14,Gift Card,Africa,Cancelled,1206.84
+ORD100628,2024-06-24 12:06:11.610782,CUST4021,Beauty & Health,Product 46,5,392.07,Bank Transfer,Europe,Completed,1960.35
+ORD100629,2024-12-30 12:06:11.610782,CUST4266,Beauty & Health,,4,268.26,PAYPAL,North America,Cancelled,1073.04
+ORD100630,2024-07-15 12:06:11.610782,CUST7417,electronics,Product 18,1,346.93,creditcard,,Completed,346.93
+ORD100631,2024-05-18 12:06:11.610782,CUST7305,home-kitchen,Product 17,8,339.38,Gift Card,,Completed,2715.04
+ORD100632,2024-09-09 12:06:11.610782,CUST7817,Sports & Outdoors,Product 35,6,105.22,Gift Card,North America,Cancelled,631.32
+ORD100633,2024-07-20 12:06:11.610782,CUST1905,electronics,Product 50,5,167.32,PAYPAL,North America,Cancelled,836.6
+ORD100634,2024-09-17 12:06:11.610782,CUST2850,CLOTHING,Product 6,7,13.42,creditcard,Europe,Pending,93.94
+ORD100635,2024-12-21 12:06:11.610782,CUST3662,home-kitchen,Product 24,6,267.46,PAYPAL,Africa,Cancelled,1604.76
+ORD100636,2024-05-29 12:06:11.610782,CUST8470,home-kitchen,Product 27,6,273.09,PAYPAL,South America,Completed,1638.54
+ORD100637,2024-09-19 12:06:11.610782,CUST9583,home-kitchen,Product 35,4,337.73,,Africa,Cancelled,1350.92
+ORD100638,2024-09-08 12:06:11.610782,CUST3456,,Product 12,1,16.6,,South America,Cancelled,16.6
+ORD100639,2024-03-17 12:06:11.610782,CUST5065,Beauty & Health,Product 44,2,255.25,PAYPAL,South America,Completed,510.5
+ORD100640,2024-09-14 12:06:11.610782,CUST8195,CLOTHING,Product 10,2,433.25,creditcard,North America,Completed,866.5
+ORD100641,2024-08-13 12:06:11.610782,CUST1484,Beauty & Health,Product 28,6,29.47,Gift Card,Africa,Cancelled,176.82
+ORD100642,2024-11-13 12:06:11.610782,CUST6805,,Product 29,2,356.54,creditcard,North America,Pending,713.08
+ORD100643,2024-04-05 12:06:11.610782,CUST6817,home-kitchen,Product 29,2,398.86,Bank Transfer,South America,Completed,797.72
+ORD100644,2024-04-24 12:06:11.610782,CUST6472,electronics,Product 35,5,219.24,creditcard,Asia,Pending,1096.2
+ORD100645,2024-04-09 12:06:11.610782,CUST8711,Beauty & Health,Product 25,7,163.86,Gift Card,Europe,Completed,1147.02
+ORD100646,2024-07-15 12:06:11.610782,CUST8154,Sports & Outdoors,Product 2,2,18.45,PAYPAL,Africa,Cancelled,36.9
+ORD100647,2024-10-03 12:06:11.610782,CUST4128,CLOTHING,Product 33,9,467.48,PAYPAL,North America,Completed,4207.32
+ORD100648,2024-06-24 12:06:11.610782,CUST6764,Sports & Outdoors,Product 16,6,132.84,PAYPAL,Africa,Cancelled,797.04
+ORD100649,2024-09-29 12:06:11.610782,CUST7084,CLOTHING,,6,45.68,creditcard,South America,Pending,274.08
+ORD100650,2025-01-27 12:06:11.610782,CUST8163,electronics,Product 3,6,105.71,Bank Transfer,North America,Pending,634.26
+ORD100651,2025-01-05 12:06:11.610782,CUST5592,CLOTHING,Product 25,4,369.21,Bank Transfer,South America,Pending,1476.84
+ORD100652,2024-11-23 12:06:11.610782,CUST4852,CLOTHING,Product 45,7,352.37,,Asia,Completed,2466.59
+ORD100653,2025-02-22 12:06:11.610782,CUST4683,electronics,Product 14,2,266.11,Gift Card,South America,Cancelled,532.22
+ORD100654,2024-07-20 12:06:11.610782,CUST7439,CLOTHING,Product 39,4,283.75,PAYPAL,Asia,Pending,1135.0
+ORD100655,2025-01-07 12:06:11.610782,CUST7183,Beauty & Health,Product 15,1,432.89,Bank Transfer,Africa,Pending,432.89
+ORD100656,2024-11-01 12:06:11.610782,CUST6098,Sports & Outdoors,Product 21,6,44.04,PAYPAL,Europe,Pending,264.24
+ORD100657,2024-09-29 12:06:11.610782,CUST5217,Sports & Outdoors,Product 44,5,261.04,Gift Card,Europe,Cancelled,1305.2
+ORD100658,2024-03-13 12:06:11.610782,CUST5080,Beauty & Health,Product 45,2,369.08,PAYPAL,North America,Completed,738.16
+ORD100659,2024-09-18 12:06:11.610782,CUST7815,Sports & Outdoors,Product 40,3,170.75,,Africa,Pending,512.25
+ORD100660,2024-04-02 12:06:11.610782,,CLOTHING,Product 10,5,270.85,Bank Transfer,Europe,Cancelled,1354.25
+ORD100661,2024-11-06 12:06:11.610782,CUST2060,CLOTHING,Product 10,6,100.74,PAYPAL,North America,Cancelled,604.44
+ORD100662,2024-10-17 12:06:11.610782,CUST2064,Beauty & Health,Product 22,9,443.22,Gift Card,South America,Cancelled,3988.98
+ORD100663,2024-11-21 12:06:11.610782,CUST3647,Sports & Outdoors,Product 12,2,145.25,Gift Card,Europe,Cancelled,290.5
+ORD100664,2024-09-01 12:06:11.610782,CUST8866,Sports & Outdoors,Product 23,3,260.2,PAYPAL,North America,Pending,780.6
+ORD100665,2024-04-22 12:06:11.610782,CUST8096,electronics,Product 41,9,415.5,Bank Transfer,Asia,Pending,3739.5
+ORD100666,2024-07-25 12:06:11.610782,,Beauty & Health,Product 41,7,323.11,Gift Card,Europe,Pending,2261.77
+ORD100667,2024-06-03 12:06:11.610782,CUST4158,electronics,Product 25,1,38.23,Gift Card,South America,Cancelled,38.23
+ORD100668,2024-04-17 12:06:11.610782,CUST2202,electronics,Product 48,4,53.64,creditcard,North America,Cancelled,214.56
+ORD100669,2024-12-01 12:06:11.610782,CUST9497,,Product 45,7,123.03,Gift Card,South America,Completed,861.21
+ORD100670,2024-03-10 12:06:11.610782,CUST7557,CLOTHING,Product 40,1,153.01,Bank Transfer,South America,Pending,153.01
+ORD100671,2024-12-03 12:06:11.610782,CUST5762,Beauty & Health,Product 47,3,286.27,,South America,Cancelled,858.81
+ORD100672,2024-10-09 12:06:11.610782,CUST4471,Beauty & Health,Product 12,7,37.14,Gift Card,Africa,Cancelled,259.98
+ORD100673,2024-05-25 12:06:11.610782,CUST9017,,Product 33,6,493.91,Gift Card,Europe,Cancelled,2963.46
+ORD100674,2024-06-03 12:06:11.610782,CUST6403,Beauty & Health,,10,417.16,creditcard,Asia,Cancelled,4171.6
+ORD100675,2024-12-12 12:06:11.610782,CUST7453,Sports & Outdoors,Product 3,3,393.47,Bank Transfer,Africa,,1180.41
+ORD100676,2024-06-04 12:06:11.610782,CUST6190,CLOTHING,Product 24,5,393.91,Gift Card,Europe,Cancelled,1969.55
+ORD100677,2024-07-25 12:06:11.610782,CUST2488,electronics,Product 22,1,379.36,creditcard,North America,,379.36
+ORD100678,2024-11-07 12:06:11.610782,CUST2717,electronics,Product 14,2,299.0,PAYPAL,South America,Pending,598.0
+ORD100679,2024-11-10 12:06:11.610782,CUST5503,Sports & Outdoors,Product 11,10,85.9,Bank Transfer,North America,Pending,859.0
+ORD100680,2024-05-10 12:06:11.610782,CUST5145,Sports & Outdoors,Product 6,6,294.68,,North America,Pending,1768.08
+ORD100681,2025-02-22 12:06:11.610782,CUST9507,Beauty & Health,Product 37,4,51.93,,South America,Completed,207.72
+ORD100682,2024-03-23 12:06:11.610782,CUST4355,Sports & Outdoors,Product 46,7,218.81,Gift Card,North America,Cancelled,1531.67
+ORD100683,2025-01-09 12:06:11.610782,CUST2505,electronics,Product 42,9,333.97,PAYPAL,Europe,,3005.73
+ORD100684,2024-05-07 12:06:11.610782,CUST5416,electronics,Product 18,9,215.21,Gift Card,Asia,Pending,1936.89
+ORD100685,2025-01-31 12:06:11.610782,CUST7702,electronics,,6,181.45,Bank Transfer,Asia,Completed,1088.7
+ORD100686,2024-06-03 12:06:11.610782,CUST5045,home-kitchen,Product 22,8,396.55,creditcard,Asia,Cancelled,3172.4
+ORD100687,2024-07-15 12:06:11.610782,CUST1339,Beauty & Health,Product 23,4,14.08,Bank Transfer,Africa,Cancelled,56.32
+ORD100688,2024-06-13 12:06:11.610782,CUST5203,home-kitchen,Product 32,4,13.69,Bank Transfer,South America,Pending,54.76
+ORD100689,2024-07-13 12:06:11.610782,CUST1591,Beauty & Health,,2,412.31,PAYPAL,South America,Pending,824.62
+ORD100690,2024-11-07 12:06:11.610782,CUST2062,Sports & Outdoors,Product 45,6,412.64,PAYPAL,Europe,Pending,2475.84
+ORD100691,2024-07-24 12:06:11.610782,CUST6494,CLOTHING,Product 21,7,208.89,PAYPAL,Asia,Pending,1462.23
+ORD100692,2025-02-21 12:06:11.610782,CUST8375,CLOTHING,Product 47,5,243.66,PAYPAL,North America,Pending,1218.3
+ORD100693,2025-01-27 12:06:11.610782,CUST4863,Beauty & Health,Product 49,4,12.5,PAYPAL,Africa,,50.0
+ORD100694,2024-07-31 12:06:11.610782,CUST3709,Beauty & Health,Product 10,6,208.28,Gift Card,North America,Completed,1249.68
+ORD100695,2024-02-25 12:06:11.610782,CUST7344,electronics,Product 38,7,130.42,Gift Card,North America,Completed,912.94
+ORD100696,2024-10-05 12:06:11.610782,CUST5128,home-kitchen,Product 47,10,297.38,PAYPAL,Europe,Pending,2973.8
+ORD100697,2024-09-19 12:06:11.610782,CUST8043,Beauty & Health,Product 20,5,28.92,Gift Card,Asia,Pending,144.6
+ORD100698,2024-04-12 12:06:11.610782,CUST1693,electronics,Product 27,5,113.49,Bank Transfer,,Cancelled,567.45
+ORD100699,2024-04-15 12:06:11.610782,CUST9827,CLOTHING,Product 16,6,472.12,creditcard,North America,Completed,2832.72
+ORD100700,2024-05-18 12:06:11.610782,CUST8696,CLOTHING,Product 29,5,450.53,creditcard,North America,Cancelled,2252.65
+ORD100701,2024-03-17 12:06:11.610782,CUST4293,Sports & Outdoors,Product 50,2,338.14,PAYPAL,South America,Pending,676.28
+ORD100702,2024-10-31 12:06:11.610782,CUST9262,Sports & Outdoors,Product 39,7,135.92,Gift Card,North America,Pending,951.44
+ORD100703,2024-12-02 12:06:11.610782,CUST9457,electronics,Product 1,5,56.68,Gift Card,Europe,Cancelled,283.4
+ORD100704,2024-12-14 12:06:11.610782,CUST8157,Sports & Outdoors,Product 9,7,143.92,Gift Card,Africa,Pending,1007.44
+ORD100705,2024-09-17 12:06:11.610782,CUST8738,CLOTHING,Product 18,8,303.61,PAYPAL,South America,Pending,2428.88
+ORD100706,2024-08-01 12:06:11.610782,CUST7648,CLOTHING,Product 50,5,53.03,PAYPAL,South America,Cancelled,265.15
+ORD100707,2024-10-23 12:06:11.610782,CUST1503,Sports & Outdoors,Product 13,10,452.42,Gift Card,Africa,Completed,4524.2
+ORD100708,2024-05-09 12:06:11.610782,CUST9499,CLOTHING,Product 11,4,328.74,Gift Card,Africa,Completed,1314.96
+ORD100709,2024-06-17 12:06:11.610782,CUST9621,Beauty & Health,Product 4,10,485.51,creditcard,South America,Cancelled,4855.1
+ORD100710,2024-06-16 12:06:11.610782,CUST5487,electronics,Product 29,3,62.47,creditcard,Africa,Completed,187.41
+ORD100711,2024-06-24 12:06:11.610782,CUST8379,home-kitchen,Product 3,6,83.41,Bank Transfer,Europe,,500.46
+ORD100712,2024-11-17 12:06:11.610782,CUST5733,Beauty & Health,Product 28,1,265.75,creditcard,Europe,Completed,265.75
+ORD100713,2024-03-12 12:06:11.610782,CUST2932,Sports & Outdoors,Product 39,5,308.6,Gift Card,Europe,Cancelled,1543.0
+ORD100714,2024-03-05 12:06:11.610782,CUST4886,electronics,Product 15,6,165.59,,Africa,Completed,993.54
+ORD100715,2024-05-19 12:06:11.610782,CUST7206,electronics,Product 37,10,467.6,PAYPAL,Asia,Cancelled,4676.0
+ORD100716,2024-03-19 12:06:11.610782,CUST9539,home-kitchen,Product 4,7,86.18,Gift Card,North America,Cancelled,603.26
+ORD100717,2024-12-24 12:06:11.610782,CUST1903,home-kitchen,Product 25,6,113.21,Gift Card,North America,Pending,679.26
+ORD100718,2024-12-26 12:06:11.610782,CUST1248,,Product 1,6,242.83,Gift Card,Asia,Cancelled,1456.98
+ORD100719,2024-12-25 12:06:11.610782,CUST5828,Sports & Outdoors,Product 48,1,244.26,PAYPAL,South America,Cancelled,244.26
+ORD100720,2024-05-31 12:06:11.610782,CUST6531,CLOTHING,Product 14,8,62.52,Gift Card,Africa,Cancelled,500.16
+ORD100721,2024-06-11 12:06:11.610782,CUST3078,home-kitchen,Product 39,1,406.7,PAYPAL,Africa,Cancelled,406.7
+ORD100722,2024-09-22 12:06:11.610782,CUST8437,home-kitchen,Product 45,6,458.42,creditcard,Asia,Cancelled,2750.52
+ORD100723,2024-08-10 12:06:11.610782,CUST6071,Sports & Outdoors,Product 49,5,170.76,Gift Card,Asia,Completed,853.8
+ORD100724,2025-01-22 12:06:11.610782,CUST7051,Sports & Outdoors,Product 13,7,29.68,Gift Card,North America,Completed,207.76
+ORD100725,2024-07-07 12:06:11.610782,CUST1735,Beauty & Health,Product 16,5,493.42,Bank Transfer,South America,Cancelled,2467.1
+ORD100726,2024-12-21 12:06:11.610782,CUST1236,home-kitchen,Product 47,2,360.38,Bank Transfer,Africa,Cancelled,720.76
+ORD100727,2025-02-20 12:06:11.610782,CUST5279,,Product 13,2,309.03,,South America,Cancelled,618.06
+ORD100728,2024-11-07 12:06:11.610782,CUST1132,home-kitchen,Product 3,7,138.22,Bank Transfer,South America,Pending,967.54
+ORD100729,2024-04-02 12:06:11.610782,CUST6773,electronics,Product 49,2,229.76,creditcard,North America,,459.52
+ORD100730,2024-11-16 12:06:11.610782,CUST5165,Sports & Outdoors,Product 37,7,207.56,creditcard,South America,Pending,1452.92
+ORD100731,2024-05-29 12:06:11.610782,CUST8079,home-kitchen,Product 47,3,229.73,Gift Card,Asia,Cancelled,689.19
+ORD100732,2024-07-06 12:06:11.610782,CUST4547,electronics,Product 41,4,439.24,PAYPAL,Europe,Pending,1756.96
+ORD100733,2024-04-21 12:06:11.610782,CUST3013,home-kitchen,Product 12,2,310.65,creditcard,North America,Pending,621.3
+ORD100734,2024-10-09 12:06:11.610782,CUST8265,electronics,Product 2,10,173.39,,Europe,Pending,1733.9
+ORD100735,2024-08-31 12:06:11.610782,CUST7671,electronics,Product 40,3,483.78,creditcard,Africa,Pending,1451.34
+ORD100736,2024-05-07 12:06:11.610782,CUST9744,Sports & Outdoors,Product 6,10,372.47,Bank Transfer,South America,Cancelled,3724.7
+ORD100737,2024-06-27 12:06:11.610782,CUST6425,home-kitchen,Product 3,1,490.56,PAYPAL,Europe,Completed,490.56
+ORD100738,2024-10-02 12:06:11.610782,CUST8629,Sports & Outdoors,Product 37,2,498.23,Gift Card,Asia,Cancelled,996.46
+ORD100739,2024-09-18 12:06:11.610782,CUST4006,home-kitchen,Product 47,10,106.72,Gift Card,Asia,Pending,1067.2
+ORD100740,2024-10-27 12:06:11.610782,CUST4189,Beauty & Health,Product 17,7,318.12,Bank Transfer,Asia,Pending,2226.84
+ORD100741,2024-12-09 12:06:11.610782,CUST6745,,Product 25,2,129.35,creditcard,Asia,Completed,258.7
+ORD100742,2024-12-09 12:06:11.610782,CUST5426,Beauty & Health,,4,381.11,PAYPAL,North America,Completed,1524.44
+ORD100743,2024-05-16 12:06:11.610782,,CLOTHING,Product 20,7,424.62,Bank Transfer,North America,Completed,2972.34
+ORD100744,2024-05-05 12:06:11.610782,,electronics,Product 12,6,42.86,Bank Transfer,Asia,Pending,257.16
+ORD100745,2024-05-23 12:06:11.610782,,home-kitchen,Product 13,4,187.17,Bank Transfer,Asia,Cancelled,748.68
+ORD100746,2024-08-17 12:06:11.610782,CUST3149,electronics,Product 17,3,127.55,PAYPAL,South America,Cancelled,382.65
+ORD100747,2024-07-24 12:06:11.610782,CUST2714,CLOTHING,Product 30,2,165.33,Bank Transfer,North America,Cancelled,330.66
+ORD100748,2024-10-10 12:06:11.610782,CUST4970,home-kitchen,Product 45,1,234.03,PAYPAL,South America,Pending,234.03
+ORD100749,2024-05-17 12:06:11.610782,CUST9273,Beauty & Health,Product 27,6,143.6,Bank Transfer,South America,Pending,861.6
+ORD100750,2024-04-17 12:06:11.610782,CUST9549,home-kitchen,Product 1,5,187.31,Bank Transfer,Asia,,936.55
+ORD100751,2024-07-06 12:06:11.610782,CUST5325,Sports & Outdoors,Product 23,5,356.77,PAYPAL,Africa,Completed,1783.85
+ORD100752,2024-06-21 12:06:11.610782,CUST2231,Sports & Outdoors,Product 44,5,20.42,PAYPAL,South America,Cancelled,102.1
+ORD100753,2024-12-15 12:06:11.610782,CUST7706,electronics,Product 30,6,338.82,Gift Card,Europe,Completed,2032.92
+ORD100754,2025-01-18 12:06:11.610782,CUST9258,Sports & Outdoors,Product 44,7,476.15,Bank Transfer,North America,Cancelled,3333.05
+ORD100755,2024-03-06 12:06:11.610782,CUST7967,electronics,Product 7,4,224.34,Bank Transfer,Europe,Cancelled,897.36
+ORD100756,2024-03-30 12:06:11.610782,CUST1182,Beauty & Health,Product 26,3,489.14,PAYPAL,South America,,1467.42
+ORD100757,2024-12-23 12:06:11.610782,CUST5843,Beauty & Health,Product 24,8,349.84,PAYPAL,Asia,Cancelled,2798.72
+ORD100758,2024-06-23 12:06:11.610782,CUST5548,CLOTHING,Product 26,10,358.89,creditcard,Africa,Completed,3588.9
+ORD100759,2024-09-23 12:06:11.610782,CUST7661,Beauty & Health,,2,43.12,creditcard,North America,Completed,86.24
+ORD100760,2024-11-02 12:06:11.610782,CUST1118,electronics,Product 13,5,223.83,Gift Card,South America,Completed,1119.15
+ORD100761,2024-08-01 12:06:11.610782,CUST7219,Sports & Outdoors,Product 50,9,186.95,Gift Card,South America,Completed,1682.55
+ORD100762,2024-05-20 12:06:11.610782,CUST2405,home-kitchen,Product 34,10,319.17,Bank Transfer,Asia,Pending,3191.7
+ORD100763,2024-06-14 12:06:11.610782,CUST2914,electronics,Product 19,1,341.16,Bank Transfer,Africa,Completed,341.16
+ORD100764,2024-12-30 12:06:11.610782,CUST2560,Sports & Outdoors,Product 30,5,302.26,creditcard,,Completed,1511.3
+ORD100765,2024-09-07 12:06:11.610782,CUST2553,CLOTHING,Product 49,1,310.26,Bank Transfer,South America,Cancelled,310.26
+ORD100766,2024-12-08 12:06:11.610782,CUST8844,electronics,Product 43,9,345.28,Gift Card,Africa,Cancelled,3107.52
+ORD100767,2024-10-22 12:06:11.610782,CUST5971,home-kitchen,Product 28,2,40.31,PAYPAL,South America,Completed,80.62
+ORD100768,2024-07-02 12:06:11.610782,CUST4765,CLOTHING,Product 49,5,294.88,Gift Card,North America,Cancelled,1474.4
+ORD100769,2025-02-21 12:06:11.610782,CUST3901,Sports & Outdoors,Product 36,2,202.79,PAYPAL,Africa,Pending,405.58
+ORD100770,2024-04-14 12:06:11.610782,CUST3717,electronics,Product 28,8,328.34,PAYPAL,Asia,Pending,2626.72
+ORD100771,2024-05-03 12:06:11.610782,CUST6936,Sports & Outdoors,Product 9,6,19.79,Bank Transfer,,Cancelled,118.74
+ORD100772,2025-01-02 12:06:11.610782,CUST9611,,Product 1,8,66.0,Bank Transfer,Africa,Pending,528.0
+ORD100773,2024-06-04 12:06:11.610782,CUST1621,home-kitchen,Product 40,5,365.82,Bank Transfer,North America,Cancelled,1829.1
+ORD100774,2024-11-16 12:06:11.610782,CUST4015,CLOTHING,,3,418.92,creditcard,North America,Cancelled,1256.76
+ORD100775,2024-08-01 12:06:11.610782,CUST3761,Beauty & Health,,8,334.21,PAYPAL,Europe,,2673.68
+ORD100776,2024-10-29 12:06:11.610782,CUST3417,home-kitchen,Product 12,4,476.11,Bank Transfer,North America,Cancelled,1904.44
+ORD100777,2024-06-06 12:06:11.610782,CUST5563,Beauty & Health,Product 32,3,426.72,creditcard,Asia,Cancelled,1280.16
+ORD100778,2024-12-24 12:06:11.610782,,home-kitchen,Product 22,4,67.23,Bank Transfer,North America,Cancelled,268.92
+ORD100779,2024-08-10 12:06:11.610782,CUST8581,,,10,372.92,Bank Transfer,North America,Completed,3729.2
+ORD100780,2025-02-01 12:06:11.610782,CUST7420,CLOTHING,Product 28,4,245.09,Bank Transfer,Asia,Cancelled,980.36
+ORD100781,2024-10-18 12:06:11.610782,CUST8190,home-kitchen,Product 4,9,37.4,Bank Transfer,North America,Completed,336.6
+ORD100782,2024-07-29 12:06:11.610782,CUST5033,,Product 34,10,241.46,Bank Transfer,,Pending,2414.6
+ORD100783,2024-09-28 12:06:11.610782,CUST8475,Beauty & Health,Product 26,4,215.83,creditcard,Africa,Cancelled,863.32
+ORD100784,2025-02-09 12:06:11.610782,CUST7330,CLOTHING,Product 35,7,39.7,PAYPAL,North America,Pending,277.9
+ORD100785,2024-03-13 12:06:11.610782,CUST2218,Sports & Outdoors,Product 25,7,129.75,PAYPAL,Asia,Pending,908.25
+ORD100786,2025-02-18 12:06:11.610782,CUST2502,CLOTHING,,5,209.12,Bank Transfer,Europe,Pending,1045.6
+ORD100787,2024-11-11 12:06:11.610782,CUST3665,CLOTHING,Product 13,2,149.77,Bank Transfer,Europe,Cancelled,299.54
+ORD100788,2024-08-15 12:06:11.610782,CUST4403,,Product 27,1,414.69,Bank Transfer,North America,Pending,414.69
+ORD100789,2024-03-01 12:06:11.610782,CUST4157,home-kitchen,Product 10,5,260.84,Gift Card,Africa,Cancelled,1304.2
+ORD100790,2025-02-02 12:06:11.610782,CUST7949,,Product 11,1,412.49,Bank Transfer,Africa,Cancelled,412.49
+ORD100791,2025-02-01 12:06:11.610782,CUST6490,electronics,Product 48,10,95.59,Bank Transfer,South America,Pending,955.9
+ORD100792,2024-07-06 12:06:11.610782,,Sports & Outdoors,Product 50,9,369.04,,North America,Completed,3321.36
+ORD100793,2024-09-15 12:06:11.610782,CUST3265,CLOTHING,Product 8,10,203.64,Bank Transfer,North America,Completed,2036.4
+ORD100794,2024-03-18 12:06:11.610782,CUST5000,CLOTHING,Product 28,8,365.79,creditcard,South America,Completed,2926.32
+ORD100795,2024-04-05 12:06:11.610782,CUST2871,home-kitchen,Product 11,5,453.12,creditcard,Europe,Completed,2265.6
+ORD100796,2024-08-26 12:06:11.610782,CUST9010,home-kitchen,Product 10,6,491.14,Bank Transfer,South America,Completed,2946.84
+ORD100797,2024-06-22 12:06:11.610782,CUST1941,Sports & Outdoors,Product 14,1,174.15,creditcard,Africa,,174.15
+ORD100798,2024-04-06 12:06:11.610782,CUST5362,Beauty & Health,Product 22,1,183.49,creditcard,North America,Cancelled,183.49
+ORD100799,2024-11-23 12:06:11.610782,CUST2455,Beauty & Health,Product 49,1,421.15,creditcard,Africa,Pending,421.15
+ORD100800,2024-04-04 12:06:11.610782,CUST6951,electronics,Product 38,4,289.81,Gift Card,South America,Completed,1159.24
+ORD100801,2024-06-05 12:06:11.610782,CUST7777,Beauty & Health,Product 30,7,267.64,creditcard,Asia,Cancelled,1873.48
+ORD100802,2025-01-06 12:06:11.610782,CUST5351,CLOTHING,Product 40,6,278.37,Bank Transfer,North America,Pending,1670.22
+ORD100803,2024-10-19 12:06:11.610782,CUST1944,electronics,Product 46,10,104.55,creditcard,South America,Cancelled,1045.5
+ORD100804,2024-03-07 12:06:11.610782,CUST4407,Sports & Outdoors,Product 2,10,205.58,PAYPAL,Africa,Cancelled,2055.8
+ORD100805,2024-09-17 12:06:11.610782,CUST9738,electronics,Product 40,6,306.77,Bank Transfer,North America,Completed,1840.62
+ORD100806,2024-12-10 12:06:11.610782,CUST7615,Beauty & Health,Product 50,10,436.99,creditcard,Europe,Pending,4369.9
+ORD100807,2024-08-09 12:06:11.610782,CUST9711,Sports & Outdoors,Product 14,6,284.18,Gift Card,Africa,Cancelled,1705.08
+ORD100808,2024-12-10 12:06:11.610782,CUST1550,home-kitchen,Product 4,2,425.77,Gift Card,Africa,Completed,851.54
+ORD100809,2024-03-05 12:06:11.610782,CUST7105,CLOTHING,Product 16,8,412.56,PAYPAL,Asia,Pending,3300.48
+ORD100810,2024-08-04 12:06:11.610782,CUST1901,Sports & Outdoors,Product 33,4,125.12,,Europe,Cancelled,500.48
+ORD100811,2024-03-09 12:06:11.610782,CUST5609,electronics,Product 11,8,196.33,Bank Transfer,Asia,Pending,1570.64
+ORD100812,2024-05-04 12:06:11.610782,CUST8199,electronics,Product 47,6,216.66,creditcard,Africa,Completed,1299.96
+ORD100813,2024-08-19 12:06:11.610782,CUST8821,electronics,Product 4,7,14.77,PAYPAL,Europe,Cancelled,103.39
+ORD100814,2025-01-25 12:06:11.610782,CUST3358,electronics,Product 17,7,37.73,Bank Transfer,South America,Completed,264.11
+ORD100815,2024-07-01 12:06:11.610782,CUST9436,CLOTHING,,1,181.42,Gift Card,,Cancelled,181.42
+ORD100816,2024-11-10 12:06:11.610782,CUST1962,Sports & Outdoors,Product 9,6,357.9,Bank Transfer,Asia,Cancelled,2147.4
+ORD100817,2024-05-01 12:06:11.610782,CUST2665,CLOTHING,Product 19,7,169.26,PAYPAL,Africa,Completed,1184.82
+ORD100818,2024-07-14 12:06:11.610782,CUST2630,electronics,Product 14,10,413.47,Gift Card,Europe,Pending,4134.7
+ORD100819,2024-09-16 12:06:11.610782,CUST2501,CLOTHING,Product 26,6,366.47,Gift Card,Africa,Cancelled,2198.82
+ORD100820,2024-07-22 12:06:11.610782,CUST4160,Beauty & Health,Product 9,10,161.21,creditcard,,Pending,1612.1
+ORD100821,2024-12-22 12:06:11.610782,CUST7077,home-kitchen,Product 21,2,262.28,creditcard,Asia,Cancelled,524.56
+ORD100822,2024-06-06 12:06:11.610782,,Sports & Outdoors,Product 15,9,98.94,PAYPAL,Africa,Pending,890.46
+ORD100823,2024-08-27 12:06:11.610782,CUST8812,Sports & Outdoors,Product 14,3,494.19,PAYPAL,South America,,1482.57
+ORD100824,2024-09-28 12:06:11.610782,CUST6586,CLOTHING,Product 49,3,406.04,Bank Transfer,Africa,Completed,1218.12
+ORD100825,2024-05-13 12:06:11.610782,CUST3623,CLOTHING,Product 50,7,220.73,creditcard,South America,Completed,1545.11
+ORD100826,2024-04-05 12:06:11.610782,CUST9996,electronics,Product 35,9,144.5,Bank Transfer,Europe,Cancelled,1300.5
+ORD100827,2024-05-20 12:06:11.610782,CUST8813,Beauty & Health,Product 19,10,91.03,Gift Card,Asia,Pending,910.3
+ORD100828,2024-11-21 12:06:11.610782,CUST8518,electronics,Product 22,1,441.98,PAYPAL,Asia,Completed,441.98
+ORD100829,2024-04-22 12:06:11.610782,CUST1622,Beauty & Health,Product 40,4,122.26,Bank Transfer,South America,Completed,489.04
+ORD100830,2025-01-26 12:06:11.610782,CUST8109,home-kitchen,Product 12,5,298.19,creditcard,Asia,Pending,1490.95
+ORD100831,2025-02-08 12:06:11.610782,CUST9139,,Product 28,6,117.97,Bank Transfer,South America,Pending,707.82
+ORD100832,2024-08-14 12:06:11.610782,CUST7643,electronics,Product 36,6,202.26,Bank Transfer,Africa,Cancelled,1213.56
+ORD100833,2024-06-27 12:06:11.610782,CUST9466,Sports & Outdoors,Product 38,6,86.68,creditcard,Asia,Pending,520.08
+ORD100834,2024-06-04 12:06:11.610782,CUST8494,Sports & Outdoors,Product 7,8,387.17,Gift Card,North America,Completed,3097.36
+ORD100835,2024-04-27 12:06:11.610782,CUST6866,CLOTHING,Product 6,6,486.03,creditcard,Europe,Completed,2916.18
+ORD100836,2024-11-16 12:06:11.610782,CUST9373,electronics,Product 24,8,178.88,Gift Card,Europe,Pending,1431.04
+ORD100837,2024-09-30 12:06:11.610782,CUST9371,home-kitchen,Product 49,2,396.4,Bank Transfer,Europe,Cancelled,792.8
+ORD100838,2024-10-08 12:06:11.610782,CUST7089,home-kitchen,Product 25,8,256.46,PAYPAL,South America,,2051.68
+ORD100839,2024-07-22 12:06:11.610782,CUST5098,electronics,Product 13,6,10.7,Gift Card,Asia,Pending,64.2
+ORD100840,2024-07-29 12:06:11.610782,CUST5243,electronics,Product 26,6,272.65,PAYPAL,South America,Completed,1635.9
+ORD100841,2024-10-02 12:06:11.610782,CUST8522,Sports & Outdoors,Product 24,4,346.56,PAYPAL,Africa,Cancelled,1386.24
+ORD100842,2024-07-08 12:06:11.610782,CUST2604,home-kitchen,Product 37,4,260.16,PAYPAL,South America,Cancelled,1040.64
+ORD100843,2024-10-25 12:06:11.610782,CUST9487,electronics,,6,95.32,Bank Transfer,North America,Pending,571.92
+ORD100844,2024-03-05 12:06:11.610782,CUST2649,Sports & Outdoors,Product 17,8,323.06,PAYPAL,South America,Pending,2584.48
+ORD100845,2024-04-14 12:06:11.610782,CUST2720,electronics,Product 41,2,412.21,Bank Transfer,Asia,Completed,824.42
+ORD100846,2024-07-31 12:06:11.610782,CUST5002,CLOTHING,Product 48,9,194.88,creditcard,South America,Completed,1753.92
+ORD100847,2024-07-19 12:06:11.610782,CUST2344,CLOTHING,Product 30,10,472.65,Gift Card,Asia,Pending,4726.5
+ORD100848,2024-11-19 12:06:11.610782,CUST1783,Beauty & Health,Product 13,10,229.58,Gift Card,Europe,Pending,2295.8
+ORD100849,2024-11-27 12:06:11.610782,CUST1790,Sports & Outdoors,,6,367.42,creditcard,North America,Completed,2204.52
+ORD100850,2025-02-12 12:06:11.610782,CUST3481,Beauty & Health,,4,414.02,Gift Card,Asia,Pending,1656.08
+ORD100851,2024-03-07 12:06:11.610782,CUST3625,CLOTHING,Product 5,1,120.7,PAYPAL,South America,Pending,120.7
+ORD100852,2024-03-17 12:06:11.610782,CUST5475,Beauty & Health,Product 46,1,164.09,Gift Card,Europe,Completed,164.09
+ORD100853,2025-02-15 12:06:11.610782,CUST1819,Sports & Outdoors,Product 34,7,410.5,,North America,Cancelled,2873.5
+ORD100854,2024-09-24 12:06:11.610782,CUST5645,Beauty & Health,Product 18,10,111.54,Gift Card,Europe,Completed,1115.4
+ORD100855,2024-09-27 12:06:11.610782,CUST7408,Sports & Outdoors,Product 5,7,419.32,Bank Transfer,Africa,Completed,2935.24
+ORD100856,2024-04-10 12:06:11.610782,CUST7491,CLOTHING,Product 13,10,64.02,Gift Card,Africa,Pending,640.2
+ORD100857,2024-04-27 12:06:11.610782,CUST9438,Sports & Outdoors,Product 49,6,26.19,creditcard,South America,Completed,157.14
+ORD100858,2024-05-04 12:06:11.610782,CUST1583,CLOTHING,Product 41,5,232.45,Bank Transfer,South America,Completed,1162.25
+ORD100859,2024-12-09 12:06:11.610782,CUST9586,Sports & Outdoors,Product 42,2,273.11,creditcard,Africa,Pending,546.22
+ORD100860,2024-10-09 12:06:11.610782,CUST8536,electronics,Product 15,6,199.22,creditcard,Africa,Cancelled,1195.32
+ORD100861,2024-03-09 12:06:11.610782,CUST6384,Sports & Outdoors,Product 45,1,487.55,Bank Transfer,Europe,Completed,487.55
+ORD100862,2024-05-09 12:06:11.610782,CUST9472,home-kitchen,Product 21,2,262.31,Bank Transfer,North America,Pending,524.62
+ORD100863,2024-06-30 12:06:11.610782,,electronics,Product 7,1,74.83,,Europe,Pending,74.83
+ORD100864,2024-10-17 12:06:11.610782,,Beauty & Health,Product 42,6,324.16,Gift Card,Europe,Completed,1944.96
+ORD100865,2024-09-25 12:06:11.610782,CUST1684,home-kitchen,Product 40,7,443.59,Gift Card,Europe,Cancelled,3105.13
+ORD100866,2024-11-24 12:06:11.610782,CUST3624,electronics,,1,138.71,PAYPAL,South America,Pending,138.71
+ORD100867,2024-10-10 12:06:11.610782,CUST9415,home-kitchen,Product 24,2,483.9,PAYPAL,Africa,Completed,967.8
+ORD100868,2024-07-04 12:06:11.610782,CUST8620,CLOTHING,Product 28,1,41.61,Bank Transfer,South America,Pending,41.61
+ORD100869,2024-12-03 12:06:11.610782,CUST9528,,Product 9,5,241.45,PAYPAL,Europe,Cancelled,1207.25
+ORD100870,2024-12-20 12:06:11.610782,CUST5112,Sports & Outdoors,Product 13,2,152.1,creditcard,Europe,Pending,304.2
+ORD100871,2024-12-15 12:06:11.610782,CUST9064,electronics,Product 47,7,96.79,creditcard,Africa,,677.53
+ORD100872,2024-10-08 12:06:11.610782,CUST8859,home-kitchen,Product 13,2,116.71,Bank Transfer,Africa,Pending,233.42
+ORD100873,2024-09-06 12:06:11.610782,CUST6690,Beauty & Health,Product 27,1,85.45,Gift Card,Europe,Pending,85.45
+ORD100874,2024-09-10 12:06:11.610782,CUST6714,Beauty & Health,Product 15,4,25.8,creditcard,South America,Completed,103.2
+ORD100875,2024-04-24 12:06:11.610782,CUST7421,Sports & Outdoors,Product 30,9,468.82,Bank Transfer,North America,Cancelled,4219.38
+ORD100876,2024-07-19 12:06:11.610782,CUST6818,Sports & Outdoors,Product 8,2,144.31,Bank Transfer,Asia,Completed,288.62
+ORD100877,2024-05-31 12:06:11.610782,CUST7500,Beauty & Health,Product 16,4,199.51,PAYPAL,South America,Pending,798.04
+ORD100878,2025-01-25 12:06:11.610782,CUST7984,electronics,Product 38,2,373.12,Gift Card,Europe,Cancelled,746.24
+ORD100879,2025-02-15 12:06:11.610782,CUST6107,home-kitchen,,2,114.47,Bank Transfer,Asia,Completed,228.94
+ORD100880,2024-06-23 12:06:11.610782,CUST1289,electronics,,6,475.58,creditcard,South America,,2853.48
+ORD100881,2024-10-10 12:06:11.610782,CUST6347,electronics,Product 28,1,369.55,Bank Transfer,Asia,Cancelled,369.55
+ORD100882,2024-06-04 12:06:11.610782,CUST5819,Beauty & Health,Product 50,2,494.97,creditcard,Europe,Pending,989.94
+ORD100883,2024-11-10 12:06:11.610782,CUST8309,CLOTHING,Product 18,3,291.11,PAYPAL,Asia,Cancelled,873.33
+ORD100884,2024-09-18 12:06:11.610782,CUST8396,Beauty & Health,Product 14,10,298.56,Bank Transfer,North America,Pending,2985.6
+ORD100885,2025-02-17 12:06:11.610782,CUST2605,home-kitchen,Product 18,5,74.0,Gift Card,North America,,370.0
+ORD100886,2024-03-18 12:06:11.610782,CUST5387,Beauty & Health,Product 19,8,472.42,creditcard,South America,Cancelled,3779.36
+ORD100887,2024-12-28 12:06:11.610782,CUST7169,CLOTHING,Product 39,2,119.07,Bank Transfer,Europe,Pending,238.14
+ORD100888,2024-09-07 12:06:11.610782,CUST3485,electronics,,1,379.18,creditcard,Asia,Completed,379.18
+ORD100889,2024-08-26 12:06:11.610782,CUST4225,CLOTHING,Product 19,10,274.75,creditcard,North America,Cancelled,2747.5
+ORD100890,2024-04-15 12:06:11.610782,CUST3074,Beauty & Health,Product 49,6,475.78,Bank Transfer,North America,Cancelled,2854.68
+ORD100891,2024-03-31 12:06:11.610782,CUST4607,Beauty & Health,Product 16,8,232.45,Bank Transfer,Africa,,1859.6
+ORD100892,2024-08-01 12:06:11.610782,CUST7769,CLOTHING,Product 7,4,467.37,creditcard,Africa,Cancelled,1869.48
+ORD100893,2024-09-11 12:06:11.610782,CUST4788,Beauty & Health,Product 18,9,444.59,creditcard,North America,Cancelled,4001.31
+ORD100894,2024-09-19 12:06:11.610782,CUST6046,home-kitchen,Product 6,2,36.14,PAYPAL,Asia,Completed,72.28
+ORD100895,2024-12-28 12:06:11.610782,CUST3429,Sports & Outdoors,,4,131.58,creditcard,Asia,Cancelled,526.32
+ORD100896,2024-12-01 12:06:11.610782,CUST2722,CLOTHING,Product 22,6,83.54,creditcard,Africa,Cancelled,501.24
+ORD100897,2024-11-16 12:06:11.610782,CUST2474,Sports & Outdoors,Product 47,2,311.42,Bank Transfer,Africa,Completed,622.84
+ORD100898,2024-06-14 12:06:11.610782,CUST9445,Sports & Outdoors,Product 39,7,346.83,Bank Transfer,Africa,Pending,2427.81
+ORD100899,2024-04-14 12:06:11.610782,CUST5924,CLOTHING,Product 35,2,408.36,Gift Card,South America,Cancelled,816.72
+ORD100900,2024-02-28 12:06:11.610782,CUST6354,Beauty & Health,Product 2,10,237.11,Gift Card,Europe,Pending,2371.1
+ORD100901,2024-06-10 12:06:11.610782,CUST7403,CLOTHING,Product 2,1,130.28,creditcard,Europe,Pending,130.28
+ORD100902,2025-01-23 12:06:11.610782,CUST1647,home-kitchen,Product 48,8,42.43,Bank Transfer,Europe,Completed,339.44
+ORD100903,2024-11-09 12:06:11.610782,CUST2415,Sports & Outdoors,Product 4,1,92.65,PAYPAL,Africa,Pending,92.65
+ORD100904,2025-02-07 12:06:11.610782,CUST1174,home-kitchen,,7,491.01,PAYPAL,South America,Completed,3437.07
+ORD100905,2024-03-17 12:06:11.610782,CUST2259,home-kitchen,Product 29,3,410.64,PAYPAL,South America,,1231.92
+ORD100906,2024-12-29 12:06:11.610782,CUST2039,Sports & Outdoors,Product 34,8,189.42,Bank Transfer,North America,Cancelled,1515.36
+ORD100907,2024-11-20 12:06:11.610782,CUST8863,,Product 16,1,378.37,Bank Transfer,Europe,Pending,378.37
+ORD100908,2024-05-03 12:06:11.610782,CUST9420,electronics,Product 45,9,163.27,PAYPAL,Europe,Cancelled,1469.43
+ORD100909,2024-10-16 12:06:11.610782,CUST6885,CLOTHING,Product 41,2,199.0,PAYPAL,South America,Cancelled,398.0
+ORD100910,2024-04-04 12:06:11.610782,CUST2305,home-kitchen,Product 8,10,57.94,PAYPAL,Europe,Completed,579.4
+ORD100911,2024-10-16 12:06:11.610782,CUST8905,electronics,Product 12,10,449.12,creditcard,Europe,Completed,4491.2
+ORD100912,2024-10-26 12:06:11.610782,CUST5524,CLOTHING,Product 27,1,145.0,PAYPAL,Africa,Completed,145.0
+ORD100913,2024-11-10 12:06:11.610782,CUST7068,CLOTHING,Product 14,4,345.11,PAYPAL,North America,Completed,1380.44
+ORD100914,2024-03-31 12:06:11.610782,CUST7246,,Product 9,10,466.18,PAYPAL,Asia,Pending,4661.8
+ORD100915,2024-12-09 12:06:11.610782,CUST4551,electronics,Product 42,7,419.29,creditcard,Asia,Pending,2935.03
+ORD100916,2024-09-07 12:06:11.610782,CUST3110,home-kitchen,Product 17,10,214.34,Gift Card,South America,,2143.4
+ORD100917,2025-02-09 12:06:11.610782,CUST4505,Sports & Outdoors,Product 17,7,261.08,creditcard,Africa,Cancelled,1827.56
+ORD100918,2024-05-24 12:06:11.610782,CUST1391,electronics,Product 28,10,360.91,creditcard,Asia,Completed,3609.1
+ORD100919,2024-03-06 12:06:11.610782,CUST9863,CLOTHING,Product 30,7,319.41,Gift Card,Asia,,2235.87
+ORD100920,2024-11-06 12:06:11.610782,CUST4909,CLOTHING,Product 12,8,10.15,PAYPAL,,Cancelled,81.2
+ORD100921,2024-12-09 12:06:11.610782,CUST2660,electronics,Product 4,6,113.15,,Asia,Cancelled,678.9
+ORD100922,2025-01-15 12:06:11.610782,CUST1192,Beauty & Health,Product 39,8,462.64,PAYPAL,North America,Cancelled,3701.12
+ORD100923,2025-02-23 12:06:11.610782,CUST3295,home-kitchen,Product 22,6,357.79,Gift Card,Asia,Pending,2146.74
+ORD100924,2024-11-09 12:06:11.610782,CUST1015,Beauty & Health,Product 10,3,173.85,creditcard,Europe,Completed,521.55
+ORD100925,2024-03-21 12:06:11.610782,CUST3510,Beauty & Health,Product 29,10,468.87,creditcard,North America,Cancelled,4688.7
+ORD100926,2024-05-09 12:06:11.610782,CUST9495,Sports & Outdoors,Product 22,7,387.59,PAYPAL,Asia,Completed,2713.13
+ORD100927,2024-06-19 12:06:11.610782,CUST4055,Beauty & Health,Product 18,5,186.29,creditcard,Asia,Completed,931.45
+ORD100928,2024-12-10 12:06:11.610782,CUST7904,home-kitchen,Product 40,5,340.72,Gift Card,,Completed,1703.6
+ORD100929,2024-09-15 12:06:11.610782,CUST3034,Sports & Outdoors,Product 32,3,172.65,Gift Card,North America,Completed,517.95
+ORD100930,2024-11-02 12:06:11.610782,,electronics,Product 39,4,78.29,PAYPAL,Europe,Cancelled,313.16
+ORD100931,2024-05-01 12:06:11.610782,CUST4044,electronics,Product 1,2,451.96,PAYPAL,Europe,Pending,903.92
+ORD100932,2024-05-05 12:06:11.610782,CUST4334,home-kitchen,Product 21,5,490.67,Bank Transfer,Asia,Completed,2453.35
+ORD100933,2024-11-04 12:06:11.610782,CUST5617,Sports & Outdoors,Product 21,7,15.57,Gift Card,South America,,108.99
+ORD100934,2024-09-23 12:06:11.610782,CUST8076,home-kitchen,Product 26,7,435.19,PAYPAL,Africa,Pending,3046.33
+ORD100935,2024-10-10 12:06:11.610782,CUST5157,,Product 17,9,326.42,Bank Transfer,North America,Pending,2937.78
+ORD100936,2025-01-08 12:06:11.610782,,home-kitchen,Product 12,8,259.43,Bank Transfer,Africa,Pending,2075.44
+ORD100937,2024-11-03 12:06:11.610782,CUST6498,CLOTHING,Product 42,3,316.8,creditcard,Asia,Pending,950.4
+ORD100938,2025-01-30 12:06:11.610782,CUST2671,,Product 20,1,474.49,Gift Card,,Cancelled,474.49
+ORD100939,2025-01-26 12:06:11.610782,CUST5048,Sports & Outdoors,Product 19,9,364.74,PAYPAL,Europe,Pending,3282.66
+ORD100940,2024-07-29 12:06:11.610782,CUST7181,Sports & Outdoors,Product 21,7,383.19,Bank Transfer,Africa,Pending,2682.33
+ORD100941,2024-07-20 12:06:11.610782,CUST6803,Beauty & Health,Product 27,6,306.49,Bank Transfer,North America,Completed,1838.94
+ORD100942,2024-06-30 12:06:11.610782,CUST1823,,Product 47,10,52.73,Bank Transfer,,,527.3
+ORD100943,2024-09-16 12:06:11.610782,CUST7804,electronics,Product 38,5,210.71,Bank Transfer,Asia,Cancelled,1053.55
+ORD100944,2024-07-31 12:06:11.610782,CUST9953,Beauty & Health,Product 8,5,43.27,Gift Card,Europe,Cancelled,216.35
+ORD100945,2024-11-24 12:06:11.610782,CUST6695,CLOTHING,Product 20,9,30.3,creditcard,Africa,Pending,272.7
+ORD100946,2024-08-04 12:06:11.610782,CUST8429,Sports & Outdoors,Product 15,1,482.86,Gift Card,North America,Cancelled,482.86
+ORD100947,2024-06-02 12:06:11.610782,CUST9575,Sports & Outdoors,Product 7,10,425.27,PAYPAL,,Completed,4252.7
+ORD100948,2024-04-10 12:06:11.610782,CUST7574,home-kitchen,Product 36,6,106.91,Gift Card,Africa,Pending,641.46
+ORD100949,2025-02-19 12:06:11.610782,CUST6635,Sports & Outdoors,Product 46,9,316.04,Gift Card,Europe,Cancelled,2844.36
+ORD100950,2025-02-22 12:06:11.610782,CUST2497,electronics,Product 9,1,341.08,Bank Transfer,Asia,Completed,341.08
+ORD100951,2024-09-28 12:06:11.610782,,CLOTHING,Product 11,5,386.55,Bank Transfer,Africa,Cancelled,1932.75
+ORD100952,2024-08-11 12:06:11.610782,CUST6543,Sports & Outdoors,Product 11,10,333.06,Bank Transfer,North America,Cancelled,3330.6
+ORD100953,2024-10-25 12:06:11.610782,CUST1434,home-kitchen,Product 16,9,310.42,Bank Transfer,Africa,Pending,2793.78
+ORD100954,2024-05-13 12:06:11.610782,CUST2538,Sports & Outdoors,Product 29,7,298.19,creditcard,South America,Cancelled,2087.33
+ORD100955,2024-06-13 12:06:11.610782,CUST4616,Beauty & Health,Product 7,8,436.52,creditcard,,Cancelled,3492.16
+ORD100956,2024-09-16 12:06:11.610782,CUST5211,Sports & Outdoors,Product 26,4,274.6,creditcard,South America,Completed,1098.4
+ORD100957,2024-06-29 12:06:11.610782,CUST5623,CLOTHING,Product 44,4,236.17,Bank Transfer,North America,Pending,944.68
+ORD100958,2024-12-01 12:06:11.610782,CUST1981,home-kitchen,Product 47,9,272.73,,Africa,Pending,2454.57
+ORD100959,2024-11-19 12:06:11.610782,,home-kitchen,Product 1,2,212.67,Bank Transfer,North America,Cancelled,425.34
+ORD100960,2024-04-25 12:06:11.610782,CUST2683,Beauty & Health,Product 20,5,306.3,Gift Card,Europe,Completed,1531.5
+ORD100961,2024-04-16 12:06:11.610782,CUST4534,home-kitchen,Product 41,1,119.39,Gift Card,Africa,Completed,119.39
+ORD100962,2024-07-03 12:06:11.610782,CUST6849,electronics,Product 26,4,456.09,Gift Card,South America,Cancelled,1824.36
+ORD100963,2024-03-30 12:06:11.610782,CUST5950,Sports & Outdoors,Product 23,7,58.88,Bank Transfer,South America,Completed,412.16
+ORD100964,2024-12-20 12:06:11.610782,CUST2481,electronics,Product 4,10,443.12,Gift Card,North America,Completed,4431.2
+ORD100965,2024-03-10 12:06:11.610782,,Sports & Outdoors,Product 40,2,87.86,Gift Card,South America,Cancelled,175.72
+ORD100966,2024-09-04 12:06:11.610782,CUST7702,CLOTHING,Product 17,5,79.66,creditcard,Asia,Cancelled,398.3
+ORD100967,2024-08-07 12:06:11.610782,CUST3169,Beauty & Health,Product 50,7,235.26,Gift Card,Europe,,1646.82
+ORD100968,2024-05-22 12:06:11.610782,CUST3184,home-kitchen,Product 28,10,323.4,PAYPAL,Europe,Cancelled,3234.0
+ORD100969,2025-01-03 12:06:11.610782,CUST1070,CLOTHING,,1,383.19,PAYPAL,Europe,Completed,383.19
+ORD100970,2024-12-26 12:06:11.610782,CUST8762,electronics,Product 6,6,177.42,creditcard,Europe,Pending,1064.52
+ORD100971,2024-10-08 12:06:11.610782,CUST8964,Sports & Outdoors,Product 4,2,344.05,PAYPAL,South America,Cancelled,688.1
+ORD100972,2024-05-31 12:06:11.610782,CUST4769,Beauty & Health,Product 9,3,169.9,,Asia,Pending,509.7
+ORD100973,2024-09-10 12:06:11.610782,CUST4421,,Product 20,2,219.02,Bank Transfer,Asia,Pending,438.04
+ORD100974,2024-07-30 12:06:11.610782,CUST6908,home-kitchen,Product 24,6,257.86,Bank Transfer,Europe,Completed,1547.16
+ORD100975,2024-07-18 12:06:11.610782,CUST7792,Beauty & Health,Product 18,2,185.79,PAYPAL,Asia,Cancelled,371.58
+ORD100976,2024-11-23 12:06:11.610782,CUST8640,home-kitchen,Product 8,9,10.83,Bank Transfer,,Pending,97.47
+ORD100977,2024-03-05 12:06:11.610782,CUST6759,Sports & Outdoors,Product 28,5,299.59,PAYPAL,Asia,Cancelled,1497.95
+ORD100978,2024-05-10 12:06:11.610782,CUST1255,electronics,Product 19,10,302.13,creditcard,South America,Pending,3021.3
+ORD100979,2024-10-26 12:06:11.610782,CUST5546,CLOTHING,Product 32,7,30.19,Gift Card,Europe,Cancelled,211.33
+ORD100980,2024-08-24 12:06:11.610782,CUST1252,Sports & Outdoors,Product 25,10,154.87,creditcard,Asia,Completed,1548.7
+ORD100981,2024-07-02 12:06:11.610782,,CLOTHING,,4,114.81,PAYPAL,Europe,Completed,459.24
+ORD100982,2024-05-21 12:06:11.610782,CUST4034,electronics,Product 38,7,13.57,PAYPAL,Asia,Cancelled,94.99
+ORD100983,2024-12-06 12:06:11.610782,CUST6687,CLOTHING,Product 48,3,240.16,creditcard,North America,Cancelled,720.48
+ORD100984,2024-03-08 12:06:11.610782,CUST3405,Sports & Outdoors,Product 20,2,57.89,creditcard,Asia,Cancelled,115.78
+ORD100985,2025-02-12 12:06:11.610782,CUST2973,CLOTHING,Product 22,8,406.9,Gift Card,Europe,Pending,3255.2
+ORD100986,2024-02-24 12:06:11.610782,CUST6309,CLOTHING,Product 36,8,106.02,PAYPAL,South America,Completed,848.16
+ORD100987,2025-01-12 12:06:11.610782,CUST5968,Beauty & Health,Product 10,8,25.26,PAYPAL,South America,Completed,202.08
+ORD100988,2024-06-10 12:06:11.610782,CUST6679,Beauty & Health,Product 16,2,70.88,,Asia,Cancelled,141.76
+ORD100989,2024-06-09 12:06:11.610782,CUST9610,,Product 45,5,389.52,Bank Transfer,Africa,Completed,1947.6
+ORD100990,2024-05-27 12:06:11.610782,CUST1089,Sports & Outdoors,Product 42,2,422.49,Bank Transfer,Asia,Completed,844.98
+ORD100991,2024-07-15 12:06:11.610782,CUST1557,CLOTHING,Product 15,10,60.37,PAYPAL,Africa,Completed,603.7
+ORD100992,2024-04-05 12:06:11.610782,CUST5720,electronics,Product 45,6,489.33,,Europe,Completed,2935.98
+ORD100993,2024-09-29 12:06:11.610782,CUST2355,electronics,Product 3,2,79.92,Gift Card,Europe,Completed,159.84
+ORD100994,2025-01-10 12:06:11.610782,CUST9000,Beauty & Health,Product 50,8,263.13,Bank Transfer,Asia,Cancelled,2105.04
+ORD100995,2024-05-16 12:06:11.610782,CUST9632,electronics,Product 3,6,295.06,PAYPAL,North America,Pending,1770.36
+ORD100996,2024-06-19 12:06:11.610782,CUST4177,CLOTHING,Product 1,3,77.79,Gift Card,Asia,Pending,233.37
+ORD100997,2024-06-01 12:06:11.610782,,electronics,Product 37,7,427.19,Gift Card,Europe,Completed,2990.33
+ORD100998,2024-04-30 12:06:11.610782,CUST7340,CLOTHING,Product 33,5,249.12,Gift Card,North America,,1245.6
+ORD100999,2025-02-10 12:06:11.610782,CUST5224,CLOTHING,Product 19,7,37.51,Gift Card,Asia,,262.57
+ORD100521,2024-09-29 12:06:11.610782,CUST7424,Beauty & Health,Product 1,3,333.93,PAYPAL,Africa,Completed,1001.79
+ORD100737,2024-06-27 12:06:11.610782,CUST6425,home-kitchen,Product 3,1,490.56,PAYPAL,Europe,Completed,490.56
+ORD100740,2024-10-27 12:06:11.610782,CUST4189,Beauty & Health,Product 17,7,318.12,Bank Transfer,Asia,Pending,2226.84
+ORD100660,2024-04-02 12:06:11.610782,,CLOTHING,Product 10,5,270.85,Bank Transfer,Europe,Cancelled,1354.25
+ORD100411,2025-01-14 12:06:11.610782,CUST1841,Beauty & Health,Product 45,9,415.47,Gift Card,Africa,Pending,3739.23
+ORD100678,2024-11-07 12:06:11.610782,CUST2717,electronics,Product 14,2,299.0,PAYPAL,South America,Pending,598.0
+ORD100626,2024-11-25 12:06:11.610782,CUST3508,home-kitchen,Product 31,6,275.18,Bank Transfer,,Cancelled,1651.08
+ORD100513,2025-01-23 12:06:11.610782,CUST5984,Sports & Outdoors,Product 26,4,202.16,Bank Transfer,North America,Completed,808.64
+ORD100859,2024-12-09 12:06:11.610782,CUST9586,Sports & Outdoors,Product 42,2,273.11,creditcard,Africa,Pending,546.22
+ORD100136,2024-12-09 12:06:11.610782,CUST8087,home-kitchen,,9,349.01,Bank Transfer,South America,Pending,3141.09
+ORD100811,2024-03-09 12:06:11.610782,CUST5609,electronics,Product 11,8,196.33,Bank Transfer,Asia,Pending,1570.64
+ORD100076,2024-03-13 12:06:11.610782,CUST9683,Beauty & Health,Product 41,7,129.1,creditcard,North America,Completed,903.7
+ORD100636,2024-05-29 12:06:11.610782,CUST8470,home-kitchen,Product 27,6,273.09,PAYPAL,South America,Completed,1638.54
+ORD100973,2024-09-10 12:06:11.610782,CUST4421,,Product 20,2,219.02,Bank Transfer,Asia,Pending,438.04
+ORD100938,2025-01-30 12:06:11.610782,CUST2671,,Product 20,1,474.49,Gift Card,,Cancelled,474.49
+ORD100899,2024-04-14 12:06:11.610782,CUST5924,CLOTHING,Product 35,2,408.36,Gift Card,South America,Cancelled,816.72
+ORD100280,2024-03-14 12:06:11.610782,CUST8261,home-kitchen,Product 49,3,323.84,PAYPAL,Africa,Pending,971.52
+ORD100883,2024-11-10 12:06:11.610782,CUST8309,CLOTHING,Product 18,3,291.11,PAYPAL,Asia,Cancelled,873.33
+ORD100761,2024-08-01 12:06:11.610782,CUST7219,Sports & Outdoors,Product 50,9,186.95,Gift Card,South America,Completed,1682.55
+ORD100319,2024-11-24 12:06:11.610782,CUST4143,home-kitchen,,5,316.81,PAYPAL,Europe,Pending,1584.05
+ORD100549,2024-08-09 12:06:11.610782,CUST8532,Sports & Outdoors,Product 21,5,460.42,PAYPAL,North America,Pending,2302.1
+ORD100174,2024-06-06 12:06:11.610782,CUST4687,home-kitchen,Product 37,10,289.99,Bank Transfer,Asia,Pending,2899.9
+ORD100371,2024-04-26 12:06:11.610782,CUST2640,home-kitchen,Product 33,1,123.54,Bank Transfer,South America,Cancelled,123.54
+ORD100527,2024-07-04 12:06:11.610782,CUST4630,electronics,,6,271.97,PAYPAL,North America,Cancelled,1631.82
+ORD100210,2025-02-11 12:06:11.610782,CUST8377,home-kitchen,Product 40,2,268.4,Bank Transfer,North America,Completed,536.8
+ORD100235,2024-10-17 12:06:11.610782,CUST6173,electronics,Product 24,4,130.75,Gift Card,,Completed,523.0
+ORD100101,2024-04-28 12:06:11.610782,,Beauty & Health,Product 3,7,339.94,Bank Transfer,South America,Cancelled,2379.58
+ORD100986,2024-02-24 12:06:11.610782,CUST6309,CLOTHING,Product 36,8,106.02,PAYPAL,South America,Completed,848.16
+ORD100902,2025-01-23 12:06:11.610782,CUST1647,home-kitchen,Product 48,8,42.43,Bank Transfer,Europe,Completed,339.44
+ORD100947,2024-06-02 12:06:11.610782,CUST9575,Sports & Outdoors,Product 7,10,425.27,PAYPAL,,Completed,4252.7
+ORD100346,2024-07-23 12:06:11.610782,CUST5980,home-kitchen,Product 36,3,111.57,PAYPAL,Asia,Pending,334.71
+ORD100139,2024-07-26 12:06:11.610782,CUST1820,electronics,Product 8,6,174.08,Gift Card,North America,Pending,1044.48
+ORD100621,2024-10-04 12:06:11.610782,CUST3865,Beauty & Health,Product 14,9,139.15,creditcard,Asia,Cancelled,1252.35
+ORD100499,2024-05-30 12:06:11.610782,CUST5293,home-kitchen,Product 45,3,425.78,creditcard,Africa,Pending,1277.34
+ORD100370,2024-06-11 12:06:11.610782,CUST4643,home-kitchen,Product 10,5,72.21,creditcard,North America,Completed,361.05
+ORD100198,2024-06-22 12:06:11.610782,CUST6295,Beauty & Health,Product 8,2,390.18,,Europe,Cancelled,780.36
+ORD100687,2024-07-15 12:06:11.610782,CUST1339,Beauty & Health,Product 23,4,14.08,Bank Transfer,Africa,Cancelled,56.32
+ORD100584,2024-09-11 12:06:11.610782,CUST9003,Sports & Outdoors,Product 45,5,230.98,,North America,Cancelled,1154.9
+ORD100901,2024-06-10 12:06:11.610782,CUST7403,CLOTHING,Product 2,1,130.28,creditcard,Europe,Pending,130.28
+ORD100059,2024-08-03 12:06:11.610782,CUST4158,CLOTHING,Product 34,8,111.22,PAYPAL,North America,Pending,889.76
+ORD100328,2024-09-09 12:06:11.610782,,Beauty & Health,Product 22,5,309.39,PAYPAL,North America,Pending,1546.95
+ORD100096,2024-12-09 12:06:11.610782,CUST8826,Beauty & Health,Product 37,3,272.45,Bank Transfer,North America,Pending,817.35
+ORD100312,2024-05-18 12:06:11.610782,CUST4979,,Product 11,8,137.11,creditcard,South America,Cancelled,1096.88
+ORD100974,2024-07-30 12:06:11.610782,CUST6908,home-kitchen,Product 24,6,257.86,Bank Transfer,Europe,Completed,1547.16
+ORD100299,2024-05-30 12:06:11.610782,CUST8829,electronics,Product 42,4,481.41,Gift Card,Africa,Pending,1925.64
+ORD100277,2024-10-08 12:06:11.610782,CUST9580,home-kitchen,Product 37,10,40.51,PAYPAL,South America,Cancelled,405.1
+ORD100924,2024-11-09 12:06:11.610782,CUST1015,Beauty & Health,Product 10,3,173.85,creditcard,Europe,Completed,521.55
+ORD100601,2024-08-21 12:06:11.610782,CUST7957,Beauty & Health,Product 37,7,413.53,Bank Transfer,Asia,Completed,2894.71
+ORD100439,2024-05-02 12:06:11.610782,CUST3137,Sports & Outdoors,Product 5,8,193.18,PAYPAL,Europe,Pending,1545.44
+ORD100837,2024-09-30 12:06:11.610782,CUST9371,home-kitchen,Product 49,2,396.4,Bank Transfer,Europe,Cancelled,792.8
